@@ -50,7 +50,7 @@ export const Exhibition_previewItems = [
       Description:
         'Get ready for some serious innovation at Little Science Yard (LSY), brought to you by AASRA! Students across Rourkela will gather to show off their coolest science projects, packed with creativity and brainpower. With a panel of judges on hand, only the most mind-blowing ideas will make it to the top and score those winning spots. Think you\'ve got what it takes to impress?',
       ImageURL: 'https://picsum.photos/800',
-      Location: 'Chemical Dept Parking'
+      Location: 'Chemical Dept Parking',
       Date: ''
     },
     {
