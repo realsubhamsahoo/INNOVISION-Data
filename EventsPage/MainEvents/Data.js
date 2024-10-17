@@ -3,51 +3,182 @@ export const ME_previewItems = [
       id: 1,
       ImageURL: 'https://picsum.photos/500',
       PreviewDescription:
-        'Get ready for Death Race, a two-day robotics competition where participants drive their robots through a track filled with obstacles and challenges. The fastest robot to navigate the course and score the most points wins. Brace yourself for an intense and thrilling showdown!',
+        '"Can you decode the future of business?" Join us for PSI PHI, our annual Business Hackathon, where mathematics meets strategy!...',
     },
     {
       id: 2,
       ImageURL: 'https://picsum.photos/600',
       PreviewDescription:
-        'Aeroprix, the flagship aeronautic event of Innovision 2024, brings together the sharpest minds in RC aviation. Prepare to be amazed as teams from across the country showcase their engineering prowess, flying state-of-the-art RC aircrafts in a high-stakes competition that tests creativity and precision.',
+        'If it could be said in words there would be no reason to paint. NEO Palette is your chance to let your imagination speak...',
     },
     {
       id: 3,
       ImageURL: 'https://picsum.photos/400',
       PreviewDescription:
-        'Unleash your moves in The Hustlemania 3.0.This thrilling freestyle dance event features Solo and Duo categories, each with Prelims and Final rounds where participants bring their best in just 60 seconds. The intensity peaks in the final round with a head-to-head face-off on random music tracks.',
+        '"Laughter is timeless, and the stage is set!" Get ready for Punchline Panchayat...',
     },
     {
       id: 4,
       ImageURL: 'https://picsum.photos/600',
       PreviewDescription:
-        'Embark on an immersive journey with Game Showcase, a virtual reality game and campus tour designed to transport you into a stunning digital landscape where exploration meets adventure. Explore the enormous campus of NIT Rourkela virtually through Oculus Virtual Reality headsets and experience your surroundings like never before.',
+        'This event invites aspiring engineers and innovators to design, build, and test their very own mini chassis from the ground up...',
     },
     {
       id: 5,
       ImageURL: 'https://picsum.photos/500',
       PreviewDescription:
-        'Embark on a thrilling adventure through a maze built inside a tent! Along the way, solve questions at checkpoints to progress. Your goal? Find and conquer as many checkpoints as possible before time runs out. The participants with the most checkpoints and correct answers will claim victory. Test your problem-solving, strategy, and navigation in this exciting race against time!',
-      // other props for Preview
+        'Join us for an engaging two-round event that tests your knowledge and practical skills!...',
     },
     {
       id: 6,
       ImageURL: 'https://picsum.photos/600',
       PreviewDescription:
-        'The Ultimate Treasure Hunt is a thrill ing adventure where logic, strategy, and math skills are your keys to success. Teams will embark on a campus-wide hunt, so ving puzzles and cracking codes that lead to hidden treasures. Each step tests problem-solving, creativity, and teamwork. The clues will challenge your mathematical limits while keeping the excitement high.',
+        '"It\'s not just about cheering from the stands; it\'s about building the winning team!" E-Cell presents the IPL Auction...',
     },
     {
       id: 7,
       ImageURL: 'https://picsum.photos/400',
       PreviewDescription:
-        'The Algorithm and Programming Society of NITR is back with its flagship event of INNOVISION, Meteor Madness, an interact ive game involving a logrithmic problems and brainstorming quizzes that will enthral the participants in an adrenaline-filled atmosphere, testing their cognitive as well as coding skills. Presenting a cosmos of challenging problems at different levels, th is competition will be both exciting and unforgettable. Dont miss out!',
+        'The Algorithm and Programming Society of NITR is back with its flagship event of INNOVISION, Meteor Madness, an interact ive game involving a logrithmic problems and brainstorming quizzes...',
     },
     {
       id: 8,
       ImageURL: 'https://picsum.photos/500',
       PreviewDescription:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        '"Every clue is a step closer to the truth!" This interactive murder mystery invites you to solve a thrilling case of an unsolved murder...',
     },
+    {
+        id: 9,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          '',
+    },
+    {
+        id: 10,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'Get ready for the ultimate challenge with OpenChase: a Hybrid Treasure Hunt, brought to you by OpenCode!...',
+      },
+      {
+        id: 11,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'Gear up to race against time! SAE NITR presents to you the “Virtual Racing Simulator Competition”, a super enthralling event...',
+      },
+      {
+        id: 12,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'Put your chemistry knowledge to the ultimate test with Molecule Mania, a thrilling mix of crossword puzzles and rapid-fire quizzes!...',
+      },
+      {
+        id: 13,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'In this exciting team-based event, teams of 4 will tackle three thrilling challenges—Pictionary, Puzzle Pursuit, and Science Riddles—to rescue their imaginary friend...',
+      },
+      {
+        id: 14,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'Webwiz, the web development club of NIT Rourkela, brings to you WebClone Mania, an excellent opportunity to compete and exhibit your developing skills...',
+      },
+      {
+        id: 15,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          '"Innovation knows no bounds!" Join us for Brainboxed 2.0, a thrilling case study competition centered around the theme Technoverse: Navigating the Tech Cosmos and Future Landscape...',
+      },
+      {
+        id: 16,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'This exciting event challenges participants to showcase their creativity and technical skills through three engaging rounds. Kick things off with a Preliminary Online Test to assess your hardware knowledge...',
+      },
+      {
+        id: 17,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'Gear up for TURBOGEN-X with the ASME NIT Rourkela Student Section! Your mission: build a windmill using paper, cardboard, or acrylic sheets, and connect it to a dynamo...',
+      },
+      {
+        id: 18,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'HoloCampus is a groundbreaking initiative by the GTA at NIT Rourkela, debuting at Innovision 2024. As India’s first immersive holographic experience, it blends live video feeds with futuristic virtual enhancements, allowing attendees to explore the campus like never before...',
+      },
+      {
+        id: 19,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'Simulating Solutions 2.0 is an exhilarating competition hosted by the AIChe NIT Rourkela Student Chapter, the vibrant community for chemical engineers and enthusiasts...',
+      },
+      {
+        id: 20,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          '"In the depths of knowledge, we find the treasure of wisdom." Join us for Shark Hunt, a thrilling quiz based on Autonomous Underwater Vehicle (AUV) building...',
+      },
+      {
+        id: 21,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          '"Ignite your knowledge and fuel your passion for learning!" Join INQUIZZITIVE for JNANAGNI, a dynamic business and technology-themed quiz contest...',
+      },
+      {
+        id: 22,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'Step into the Era of Estates with the Finance Club for an epic journey through history! Travel from the late 19th century all the way to 2024, as major global events shake up commodities and sectors in ways you’ve never imagined...',
+      },
+      {
+        id: 23,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          '"The ocean stirs the heart, inspires the imagination, and brings eternal joy to the soul." Dive into the exciting world of robotics with Fish-Eye, hosted by Team TIBURON!...',
+      },
+      {
+        id: 24,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'Get ready to dive into a thrilling competition where strategy, creativity, and quick thinking reign supreme. In this unique event, each team will receive a set amount of ‘credits’ to start their bidding journey...',
+      },
+      {
+        id: 25,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          '"Only the strongest can dominate the ring." Prepared for the Robo-Sumo War , where robots face off in a thrilling wrestling match on an enclosed circular platform...',
+      },
+      {
+        id: 26,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'Shake It Off! A competition organized by the CEST Club of NIT Rourkela to test your technical and structural knowledge. Participants will be tasked with building a strong structure capable of withstanding loading and tremor tests...',
+      },
+      {
+        id: 27,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          '“There are shortcuts to happiness, and dancing is one of them.” Unleash your moves in The Hustlemania 3.0.This thrilling freestyle dance event features Solo and Duo categories...',
+      },
+      {
+        id: 28,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          'Get ready for "Business Pictionary" by the Grapevine Business Club! In this fun and interactive event, participants will take turns drawing business-related terms like "branding," "stock market," and "start-up"...',
+      },
+      {
+        id: 29,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          '"Get ready for an electrifying battle of innovation and skill!" In Hovermania, two teams will face off in an epic hovercraft showdown, where low-cost designs fuel intense competition...',
+      },
+      {
+        id: 30,
+        ImageURL: 'https://picsum.photos/500',
+        PreviewDescription:
+          '',
+      },
   ];
   
   export const ME_descriptionItems = [
@@ -59,7 +190,7 @@ export const ME_previewItems = [
       ImageURL: 'https://picsum.photos/800',
       Location: 'LA-104',
         Date: 'Day 1',
-        Prizes: '',
+        Prizes: '₹5000',
     },
     {
       id: 2,
@@ -69,47 +200,47 @@ export const ME_previewItems = [
       ImageURL: 'https://picsum.photos/900',
       Location: 'Online',
         Date: '',
-        Prizes: '',
+        Prizes: '₹2000',
     },
     {
       id: 3,
       Heading: 'PUNCHLINE PANCHAYAT',
       Description:
-        'Unleash your moves in The Hustlemania 3.0.This thrilling freestyle dance event features Solo and Duo categories, each with Prelims and Final rounds where participants bring their best in just 60 seconds. The intensity peaks in the final round with a head-to-head face-off on random music tracks.',
+        '"Laughter is timeless, and the stage is set!" Get ready for Punchline Panchayat, where our talented Open Mic Club members will take the stage for an entertaining showcase. In just one and a half hours, expect a variety of engaging acts from our very own comedians. With a footfall of 500 last year, this event promises to deliver laughter and enjoyment for everyone. Don’t miss out on this delightful evening!',
       ImageURL: 'https://picsum.photos/800',
-      Location: '',
-        Date: '',
+      Location: 'BBA',
+        Date: 'Day 2',
         Prizes: '',
     },
     {
       id: 4,
       Heading: 'Mini Chassis Making Competition',
       Description:
-        'Embark on an immersive journey with Game Showcase, a virtual reality game and campus tour designed to transport you into a stunning digital landscape where exploration meets adventure. Explore the enormous campus of NIT Rourkela virtually through Oculus Virtual Reality headsets and experience your surroundings like never before.',
+        'This event invites aspiring engineers and innovators to design, build, and test their very own mini chassis from the ground up. Whether you\'re passionate about automotive design or mechanical engineering, this challenge offers the perfect platform to showcase your creativity, technical skills, and problem-solving abilities.Gear up for the ultimate hands-on engineering experience with the Mini Chassis Making Competition!',
       ImageURL: 'https://picsum.photos/600',
-      Location: '',
+      Location: 'LA1-122',
         Date: '',
-        Prizes: '',
+        Prizes: '₹3000',
     },
     {
       id: 5,
       Heading: 'MATERIAXPLORE',
       Description:
-        'Embark on a thrilling adventure through a maze built inside a tent! Along the way, solve questions at checkpoints to progress. Your goal? Find and conquer as many checkpoints as possible before time runs out. The participants with the most checkpoints and correct answers will claim victory. Test your problem-solving, strategy, and navigation in this exciting race against time!',
+        'Join us for an engaging two-round event that tests your knowledge and practical skills! In the first round, solve a themed crossword puzzle, and in the second round, identify items based on their properties. This exciting competition combines critical thinking and hands-on activities, making it a must-attend for anyone eager to showcase their talents!',
       ImageURL: 'https://picsum.photos/800',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹5000',
     },
     {
       id: 6,
       Heading: 'IPL AUCTION',
       Description:
-        'The Ultimate Treasure Hunt is a thrilling adventure where logic, strategy, and math skills are your keys to success. Teams will embark on a campus-wide hunt, soljving puzzles and cracking codes that lead to hidden treasures. Each step tests problem-solving, creativity, and teamwork. The clues will challenge your mathematical limits while keeping the excitement high.',
+        '"It\'s not just about cheering from the stands; it\'s about building the winning team!" E-Cell presents the IPL Auction, a two-round competition. In Round 1, teams face off in a quiz. The top teams advance to Round 2, where they use virtual money to bid for IPL players in a dynamic auction.Be ready to experience the thrill of building your dream team!',
       ImageURL: 'https://picsum.photos/900',
-      Location: '',
-        Date: '',
-        Prizes: '',
+      Location: 'PPA',
+        Date: 'Day 3',
+        Prizes: '₹8000',
     },
     {
       id: 7,
@@ -119,236 +250,235 @@ export const ME_previewItems = [
       ImageURL: 'https://picsum.photos/800',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹3000',
     },
     {
       id: 8,
       Heading: 'BRAINLY ESCAPE',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        '"Every clue is a step closer to the truth!" This interactive murder mystery invites you to solve a thrilling case of an unsolved murder. In two rounds, teams will tackle engaging puzzles leading to locations around the LA lawns before uncovering the killer\'s identity and the biological cause of death, guided by clues rooted in bioscience.Let’s get the killer punished.',
       ImageURL: 'https://picsum.photos/600',
-      Location: '',
-        Date: '',
-        Prizes: '',
+      Location: 'LA1-114,104',
+        Date: 'Day 1',
+        Prizes: '₹5000',
     },
     {
-      id: 8,
+      id: 9,
       Heading: 'IMAGINE AI',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        '',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹3000',
     },
     {
-      id: 8,
+      id: 10,
       Heading: 'OPENCHASE',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        'Get ready for the ultimate challenge with OpenChase: a Hybrid Treasure Hunt, brought to you by OpenCode! This virtual Capture the Flag event will have you hunting down hidden hints and flags buried deep within apps, media, and websites. Do you have the skills to crack the clues and come out on top?',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹3000',
     },
     {
-      id: 8,
+      id: 11,
       Heading: 'VIRTUAL RACING SIMULATOR COMPETITION',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        'Gear up to race against time! SAE NITR presents to you the “Virtual Racing Simulator Competition”, a super enthralling event where participants will compete against each other in a virtual environment using a racing simulation software. If you enjoy playing Need For Speed, Burnout Paradise, Forza Horizon 5 etc, this competition is for you! Join us and get a chance to show off your driving skills or simply spectate and enjoy the thrilling competition as it unfolds!',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹3000',
     },
     {
-      id: 8,
+      id: 12,
       Heading: 'MOLECULAR MANIA',
-      Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+      Description: 'Put your chemistry knowledge to the ultimate test with Molecule Mania, a thrilling mix of crossword puzzles and rapid-fire quizzes! Dive into the world of atoms, molecules, and reactions as you solve intricate crosswords that challenge your understanding of chemistry. Then, switch gears to compete in a high-energy quiz session where only the sharpest minds will prevail. Whether you\'re a periodic table pro or a chemical reaction enthusiast, Molecule Mania promises a brain-teasing adventure that\'s as educational as it is exciting!',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹3000',
     },
     {
-      id: 8,
+      id: 13,
       Heading: 'SCI-SAVIOUR',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        'In this exciting team-based event, teams of 4 will tackle three thrilling challenges—Pictionary, Puzzle Pursuit, and Science Riddles—to rescue their imaginary friend. Teams will first identify their friends trapped scenario through drawings, then hunt for hidden weapons using coded clues, and finally solve science riddles to creatively apply the weapons and complete the rescue. Points are awarded for speed, accuracy, and creativity. Let the adventure begin!',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹3000',
     },
     {
-      id: 8,
+      id: 14,
       Heading: 'WEBCLONE MANIA',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        'Webwiz, the web development club of NIT Rourkela, brings to you WebClone Mania, an excellent opportunity to compete and exhibit your developing skills. Participants will be tasked with cloning a website or a specific component from scratch within the time limit of 2 hours. Showcase your coding prowess, design skills and attention to detail and stand a chance to win this exciting competition!',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹5000',
     },
     {
-      id: 8,
+      id: 15,
       Heading: 'BRAINBOXED 2.0',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        '"Innovation knows no bounds!" Join us for Brainboxed 2.0, a thrilling case study competition centered around the theme Technoverse: Navigating the Tech Cosmos and Future Landscape. Teams of up to three will tackle real-world tech challenges, showcasing their creativity and problem-solving prowess. Esteemed judges will evaluate each team’s approach and vision, making this an exceptional opportunity to consider the ethical and sustainable impacts of future innovations.',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
-        Date: '',
-        Prizes: '',
+        Date: 'Day 2 & 3',
+        Prizes: '₹3000',
     },
     {
-      id: 8,
+      id: 16,
       Heading: 'ELECTROQUEST',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        'This exciting event challenges participants to showcase their creativity and technical skills through three engaging rounds. Kick things off with a Preliminary Online Test to assess your hardware knowledge. Then, tackle a problem statement using TINKERCAD in the Simulation Round, where you’ll design and simulate your solution. Finally, bring your ideas to life in the Hardware Implementation Round, where you’ll work with actual hardware kits to create a working prototype. Join us for a thrilling experience of innovation and hands-on learning!',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹5000',
     },
     {
-      id: 8,
+      id: 17,
       Heading: 'TURBOGEN-X',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        'Gear up for TURBOGEN-X with the ASME NIT Rourkela Student Section! Your mission: build a windmill using paper, cardboard, or acrylic sheets, and connect it to a dynamo. The challenge? Create the best propeller design that, when powered by wind, generates the highest voltage. Are you ready to engineer the most efficient windmill and take the win?',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹5000',
     },
     {
-      id: 8,
-      Heading: 'HOLOGRAMS',
+      id: 18,
+      Heading: 'HOLOCAMPUS',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        'HoloCampus is a groundbreaking initiative by the GTA at NIT Rourkela, debuting at Innovision 2024. As India’s first immersive holographic experience, it blends live video feeds with futuristic virtual enhancements, allowing attendees to explore the campus like never before.Focused on delivering a seamless, immersive experience that ensures full engagement with holographic displays. Interact with holograms, experience live streams enhanced with special effects, and be part of a pioneering fusion of the physical and virtual worlds for a truly unforgettable event!',
       ImageURL: 'https://picsum.photos/600',
-      Location: '',
-        Date: '',
+      Location: 'Open Place in BBA',
+        Date: 'Day 1,2 & 3',
         Prizes: '',
     },
     {
-      id: 8,
+      id: 19,
       Heading: 'Simulating Solution',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        'Simulating Solutions 2.0 is an exhilarating competition hosted by the AIChe NIT Rourkela Student Chapter, the vibrant community for chemical engineers and enthusiasts. Participants will face a series of engaging(crosswords/quiz/jeopardy quiz), and challenging riddles that will lead your team to the grand finale. Chemical engineer or not,this competition is for everyone. So, brush up your chemistry skills and prepare to think outside the box—join us for a thrilling experience!',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹5000',
     },
     {
-      id: 8,
+      id: 20,
       Heading: 'Shark Hunt',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        '"In the depths of knowledge, we find the treasure of wisdom." Join us for Shark Hunt, a thrilling quiz based on Autonomous Underwater Vehicle (AUV) building. Test your skills and knowledge against fellow enthusiasts in this engaging event. Dive deep into the world of robotics and see who emerges victorious!',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
-        Date: '',
-        Prizes: '',
+        Date: 'Day 2',
+        Prizes: '₹2000',
     },
     {
-      id: 8,
-      Heading: 'Janagnni',
+      id: 21,
+      Heading: 'Jnanagni',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        '"Ignite your knowledge and fuel your passion for learning!" Join INQUIZZITIVE for JNANAGNI, a dynamic business and technology-themed quiz contest. This exciting event consists of a preliminary written round followed by a final oral round, taking place over three hours from 3 PM to 6 PM. Engage in challenging questions that test your knowledge and creativity!',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
-        Date: '',
-        Prizes: '',
+        Date: 'Day 2',
+        Prizes: '₹3000',
     },
     {
-      id: 8,
+      id: 22,
       Heading: 'Era of Estates',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        'Step into the Era of Estates with the Finance Club for an epic journey through history! Travel from the late 19th century all the way to 2024, as major global events shake up commodities and sectors in ways you’ve never imagined. Each round brings new challenges with prices rising and falling, and it’s up to you to adapt and make the smartest moves. With every twist and turn, the competition heats up—will you have what it takes to outwit the market and claim victory?',
       ImageURL: 'https://picsum.photos/600',
-      Location: '',
+      Location: 'PPA',
         Date: '',
-        Prizes: '',
+        Prizes: '₹3000',
     },
     {
-      id: 8,
-      Heading: 'Hackathon',
+      id: 23,
+      Heading: 'Fish Eye',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        '"The ocean stirs the heart, inspires the imagination, and brings eternal joy to the soul." Dive into the exciting world of robotics with Fish-Eye, hosted by Team TIBURON! Join us to explore the stages of building an Autonomous Underwater Vehicle (AUV), from initial design to final operation. Gain hands-on experience and valuable insights into the technology that powers these remarkable machines.',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
-        Date: '',
+        Date: 'Day 2',
         Prizes: '',
     },
     {
-      id: 8,
+      id: 24,
       Heading: 'Intelligent Trader 10.0',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        'Get ready to dive into a thrilling competition where strategy, creativity, and quick thinking reign supreme. In this unique event, each team will receive a set amount of ‘credits’ to start their bidding journey. Assigned specific numbers, teams will explore a carefully curated reference list filled with an exciting array of weapons, ammunition, and beloved characters from popular fantasies and dramas. Your mission? To craft the ultimate combination of items that will earn you the highest points possible. Each item holds its own value, and it’s up to you to navigate the bidding process with cunning and strategy to outsmart your opponents. Prepare to engage in a lively and dynamic atmosphere as you bid your way to victory. May the most strategic team emerge triumphant in this exhilarating fantasy showdown!',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹2000',
     },
     {
-      id: 8,
+      id: 25,
       Heading: 'Robo Sumo War',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        '"Only the strongest can dominate the ring." Prepared for the Robo-Sumo War , where robots face off in a thrilling wrestling match on an enclosed circular platform. With increased fight space and strategic moves, competitors will push their robots to the limit in this high-energy event!',
       ImageURL: 'https://picsum.photos/600',
-      Location: '',
-        Date: '',
-        Prizes: '',
+      Location: 'Hall in LA (Infront of Elevator)',
+        Date: 'Day 2',
+        Prizes: '₹8000',
     },
     {
-      id: 8,
+      id: 26,
       Heading: 'Shake It Off',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        'Shake It Off! A competition organized by the CEST Club of NIT Rourkela to test your technical and structural knowledge. Participants will be tasked with building a strong structure capable of withstanding loading and tremor tests using the materials provided. The model lasting the longest in a shaking table test will be declared as the winning model. Compete in teams of 2-4 and show off your civil engineering skills!',
       ImageURL: 'https://picsum.photos/600',
-      Location: '',
-        Date: '',
-        Prizes: '',
+      Location: 'SAC (Infront of SAC Stairs)',
+        Date: 'Day 2 & 3',
+        Prizes: '₹5000',
     },
     {
-      id: 8,
-      Heading: 'Roadies Food Saga 2.0',
+      id: 27,
+      Heading: 'Hustlemania 3.0',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        '“There are shortcuts to happiness, and dancing is one of them.” Unleash your moves in The Hustlemania 3.0.This thrilling freestyle dance event features Solo and Duo categories, each with Prelims and Final rounds where participants bring their best in just 60 seconds. The intensity peaks in the final round with a head-to-head face-off on random music tracks. Whether you\'re dancing alone or with a partner, step up and show off your freestyle magic—because there’s no greater feeling than dancing to the rhythm and letting the world disappear!',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹10000',
     },
     {
-      id: 8,
-      Heading: 'Little Science Yard',
-      Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
-      ImageURL: 'https://picsum.photos/600',
-      Location: '',
-        Date: '',
-        Prizes: '',
-    },
-    {
-      id: 8,
+      id: 28,
       Heading: 'Business Pictionary',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        'Get ready for "Business Pictionary" by the Grapevine Business Club! In this fun and interactive event, participants will take turns drawing business-related terms like "branding," "stock market," and "start-up" on whiteboards or chart paper, while their teammates try to guess the correct terms. The faster and more accurate the guesses, the higher your team\'s chances of winning! With creativity, communication, and teamwork at the heart of the game, it\'s a race against time to see which team will dominate the leaderboard and claim victory. Let the business-themed sketching begin!',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹2000',
     },
     {
-      id: 8,
+      id: 29,
       Heading: 'Hovermania',
       Description:
-        'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
+        '"Get ready for an electrifying battle of innovation and skill!" In Hovermania, two teams will face off in an epic hovercraft showdown, where low-cost designs fuel intense competition. This event invites participants to unleash their creativity and engineering prowess while battling for victory. Join us for an action-packed day that celebrates teamwork and ingenuity in a thrilling atmosphere!',
       ImageURL: 'https://picsum.photos/600',
       Location: '',
         Date: '',
-        Prizes: '',
+        Prizes: '₹8000',
+    },
+    {
+      id: 30,
+      Heading: 'Roadies Food Saga: 2.0',
+      Description:
+        '',
+      ImageURL: 'https://picsum.photos/600',
+      Location: '',
+        Date: '',
+        Prizes: '₹3000',
     },
   ];
