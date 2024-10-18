@@ -1,7 +1,7 @@
 export const ME_previewItems = [
     {
       id: 1,
-      ImageURL: 'https://picsum.photos/500', //TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
       PreviewDescription:
         '"Can you decode the future of business?" Join us for PSI PHI, our annual Business Hackathon, where mathematics meets strategy!...',
     },
@@ -19,7 +19,7 @@ export const ME_previewItems = [
     },
     {
       id: 4,
-      ImageURL: 'https://picsum.photos/600', //TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
       PreviewDescription:
         'This event invites aspiring engineers and innovators to design, build, and test their very own mini chassis from the ground up...',
     },
@@ -49,25 +49,25 @@ export const ME_previewItems = [
     },
     {
         id: 9,
-        ImageURL: 'https://picsum.photos/500', //tba
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //tba
         PreviewDescription:
           '',
     },
     {
         id: 10,
-        ImageURL: 'https://picsum.photos/500', //tba
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //tba
         PreviewDescription:
           'Get ready for the ultimate challenge with OpenChase: a Hybrid Treasure Hunt, brought to you by OpenCode!...',
       },
       {
         id: 11,
-        ImageURL: 'https://picsum.photos/500', //tba
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //tba
         PreviewDescription:
           'Gear up to race against time! SAE NITR presents to you the “Virtual Racing Simulator Competition”, a super enthralling event...',
       },
       {
         id: 12,
-        ImageURL: 'https://picsum.photos/500', //tba
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //tba
         PreviewDescription:
           'Put your chemistry knowledge to the ultimate test with Molecule Mania, a thrilling mix of crossword puzzles and rapid-fire quizzes!...',
       },
@@ -85,7 +85,7 @@ export const ME_previewItems = [
       },
       {
         id: 15,
-        ImageURL: 'https://picsum.photos/500',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
         PreviewDescription:
           'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179003/inno-2024/Event%20Posters/BrainBoxed%202.0%20%28AnC%29/evl3gsfmephbdm18zqta.png',
       },
@@ -103,13 +103,13 @@ export const ME_previewItems = [
       },
       {
         id: 18,
-        ImageURL: 'https://picsum.photos/500', //TBA
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
         PreviewDescription:
           'HoloCampus is a groundbreaking initiative by the GTA at NIT Rourkela, debuting at Innovision 2024. As India’s first immersive holographic experience, it blends live video feeds with futuristic virtual enhancements, allowing attendees to explore the campus like never before...',
       },
       {
         id: 19,
-        ImageURL: 'https://picsum.photos/500', //aiche TBA
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //aiche TBA
         PreviewDescription:
           'Simulating Solutions 2.0 is an exhilarating competition hosted by the AIChe NIT Rourkela Student Chapter, the vibrant community for chemical engineers and enthusiasts...',
       },
@@ -133,7 +133,7 @@ export const ME_previewItems = [
       },
       {
         id: 23,
-        ImageURL: 'https://picsum.photos/500', //TBA
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
         PreviewDescription:
           '"The ocean stirs the heart, inspires the imagination, and brings eternal joy to the soul." Dive into the exciting world of robotics with Fish-Eye, hosted by Team TIBURON!...',
       },
@@ -145,7 +145,7 @@ export const ME_previewItems = [
       },
       {
         id: 25,
-        ImageURL: 'https://picsum.photos/500', //cyborg TBA
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //cyborg TBA
         PreviewDescription:
           '"Only the strongest can dominate the ring." Prepared for the Robo-Sumo War , where robots face off in a thrilling wrestling match on an enclosed circular platform...',
       },
@@ -157,7 +157,7 @@ export const ME_previewItems = [
       },
       {
         id: 27,
-        ImageURL: 'https://picsum.photos/500', //Hustlemania TBA
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //Hustlemania TBA
         PreviewDescription:
           '“There are shortcuts to happiness, and dancing is one of them.” Unleash your moves in The Hustlemania 3.0.This thrilling freestyle dance event features Solo and Duo categories...',
       },
@@ -179,6 +179,126 @@ export const ME_previewItems = [
         PreviewDescription:
           '',
       },
+      {
+        id: 31,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 32,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 33,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 34,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 35,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 36,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 37,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 38,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 39,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 40,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 41,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 42,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 43,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 44,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 45,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 46,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 47,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 48,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 49,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
+      {
+        id: 50,
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        PreviewDescription:
+          '',
+      },
   ];
   
   export const ME_descriptionItems = [
@@ -187,7 +307,7 @@ export const ME_previewItems = [
       Heading: 'PSI-PHI',
       Description:
         '"Can you decode the future of business?" Join us for PSI PHI, our annual Business Hackathon, where mathematics meets strategy! With over 300 participants expected, this event challenges you to tackle core business and economic problems through a series of thought-provoking questions and case studies. Are you ready to sharpen your problem-solving skills and compete for innovative solutions? Don’t miss out!',
-      ImageURL: 'https://picsum.photos/800', // TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
       Location: 'LA-104',
         Date: 'Day 1',
         Prizes: '₹5000',
@@ -217,7 +337,7 @@ export const ME_previewItems = [
       Heading: 'Mini Chassis Making Competition',
       Description:
         'This event invites aspiring engineers and innovators to design, build, and test their very own mini chassis from the ground up. Whether you\'re passionate about automotive design or mechanical engineering, this challenge offers the perfect platform to showcase your creativity, technical skills, and problem-solving abilities.Gear up for the ultimate hands-on engineering experience with the Mini Chassis Making Competition!',
-      ImageURL: 'https://picsum.photos/600', // TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
       Location: 'LA1-122',
         Date: '',
         Prizes: '₹3000',
@@ -267,7 +387,7 @@ export const ME_previewItems = [
       Heading: 'IMAGINE AI',
       Description:
         '',
-      ImageURL: 'https://picsum.photos/600', //TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
       Location: '',
         Date: '',
         Prizes: '₹3000',
@@ -277,7 +397,7 @@ export const ME_previewItems = [
       Heading: 'OPENCHASE',
       Description:
         'Get ready for the ultimate challenge with OpenChase: a Hybrid Treasure Hunt, brought to you by OpenCode! This virtual Capture the Flag event will have you hunting down hidden hints and flags buried deep within apps, media, and websites. Do you have the skills to crack the clues and come out on top?',
-      ImageURL: 'https://picsum.photos/600', // TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
       Location: '',
         Date: '',
         Prizes: '₹3000',
@@ -287,7 +407,7 @@ export const ME_previewItems = [
       Heading: 'VIRTUAL RACING SIMULATOR COMPETITION',
       Description:
         'Gear up to race against time! SAE NITR presents to you the “Virtual Racing Simulator Competition”, a super enthralling event where participants will compete against each other in a virtual environment using a racing simulation software. If you enjoy playing Need For Speed, Burnout Paradise, Forza Horizon 5 etc, this competition is for you! Join us and get a chance to show off your driving skills or simply spectate and enjoy the thrilling competition as it unfolds!',
-      ImageURL: 'https://picsum.photos/600', // TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
       Location: '',
         Date: '',
         Prizes: '₹3000',
@@ -296,7 +416,7 @@ export const ME_previewItems = [
       id: 12,
       Heading: 'MOLECULAR MANIA',
       Description: 'Put your chemistry knowledge to the ultimate test with Molecule Mania, a thrilling mix of crossword puzzles and rapid-fire quizzes! Dive into the world of atoms, molecules, and reactions as you solve intricate crosswords that challenge your understanding of chemistry. Then, switch gears to compete in a high-energy quiz session where only the sharpest minds will prevail. Whether you\'re a periodic table pro or a chemical reaction enthusiast, Molecule Mania promises a brain-teasing adventure that\'s as educational as it is exciting!',
-      ImageURL: 'https://picsum.photos/600', //TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
       Location: '',
         Date: '',
         Prizes: '₹3000',
@@ -356,7 +476,7 @@ export const ME_previewItems = [
       Heading: 'HOLOCAMPUS',
       Description:
         'HoloCampus is a groundbreaking initiative by the GTA at NIT Rourkela, debuting at Innovision 2024. As India’s first immersive holographic experience, it blends live video feeds with futuristic virtual enhancements, allowing attendees to explore the campus like never before.Focused on delivering a seamless, immersive experience that ensures full engagement with holographic displays. Interact with holograms, experience live streams enhanced with special effects, and be part of a pioneering fusion of the physical and virtual worlds for a truly unforgettable event!',
-      ImageURL: 'https://picsum.photos/600', //TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
       Location: 'Open Place in BBA',
         Date: 'Day 1,2 & 3',
         Prizes: '',
@@ -366,7 +486,7 @@ export const ME_previewItems = [
       Heading: 'Simulating Solution',
       Description:
         'Simulating Solutions 2.0 is an exhilarating competition hosted by the AIChe NIT Rourkela Student Chapter, the vibrant community for chemical engineers and enthusiasts. Participants will face a series of engaging(crosswords/quiz/jeopardy quiz), and challenging riddles that will lead your team to the grand finale. Chemical engineer or not,this competition is for everyone. So, brush up your chemistry skills and prepare to think outside the box—join us for a thrilling experience!',
-      ImageURL: 'https://picsum.photos/600', //aiche TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //aiche TBA
       Location: '',
         Date: '',
         Prizes: '₹5000',
@@ -406,7 +526,7 @@ export const ME_previewItems = [
       Heading: 'Fish Eye',
       Description:
         '"The ocean stirs the heart, inspires the imagination, and brings eternal joy to the soul." Dive into the exciting world of robotics with Fish-Eye, hosted by Team TIBURON! Join us to explore the stages of building an Autonomous Underwater Vehicle (AUV), from initial design to final operation. Gain hands-on experience and valuable insights into the technology that powers these remarkable machines.',
-      ImageURL: 'https://picsum.photos/600', //TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
       Location: '',
         Date: 'Day 2',
         Prizes: '',
@@ -426,7 +546,7 @@ export const ME_previewItems = [
       Heading: 'Robo Sumo War',
       Description:
         '"Only the strongest can dominate the ring." Prepared for the Robo-Sumo War , where robots face off in a thrilling wrestling match on an enclosed circular platform. With increased fight space and strategic moves, competitors will push their robots to the limit in this high-energy event!',
-      ImageURL: 'https://picsum.photos/600', //cyborg TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //cyborg TBA
       Location: 'Hall in LA (Infront of Elevator)',
         Date: 'Day 2',
         Prizes: '₹8000',
@@ -446,7 +566,7 @@ export const ME_previewItems = [
       Heading: 'Hustlemania 3.0',
       Description:
         '“There are shortcuts to happiness, and dancing is one of them.” Unleash your moves in The Hustlemania 3.0.This thrilling freestyle dance event features Solo and Duo categories, each with Prelims and Final rounds where participants bring their best in just 60 seconds. The intensity peaks in the final round with a head-to-head face-off on random music tracks. Whether you\'re dancing alone or with a partner, step up and show off your freestyle magic—because there’s no greater feeling than dancing to the rhythm and letting the world disappear!',
-      ImageURL: 'https://picsum.photos/600', //TBA
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
       Location: '',
         Date: '',
         Prizes: '₹10000',
@@ -481,4 +601,204 @@ export const ME_previewItems = [
         Date: '',
         Prizes: '₹3000',
     },
+    {
+        id: 31,
+        Heading: 'Traders talk',
+        Description:
+          'Bears and Bulls, the official trading club of NITR, presents to you Traders Talk, an engaging lecture featuring renowned experts in the field of trading and finance who will share their insights on the dynamic world of the financial market. Grab this unique opportunity to gain valuable knowledge from seasoned professionals with years of experience, and also interact with them to enhance your understanding of the complexities and opportunities within the financial landscape.',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 32,
+        Heading: 'Idea Unlocked',
+        Description:
+          'Get ready for Idea Unlocked by MATRIX CLUB! Test your brand knowledge with a fun logo quiz, then unleash your creativity by pitching your most innovative business ideas. Impress the judges and stand a chance to win with your originality, feasibility, and presentation! Do you have what it takes?',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 33,
+        Heading: 'Decade Dash',
+        Description:
+          'Get ready to time-travel with Decade Dash by the Finance Club! Buckle up as you jump through iconic moments in history, from major world wars to economic booms, where global events will shake up real estate and country prices. Everyone starts on equal footing, but only the sharpest strategists will ride the waves of change and dominate the leaderboard. Think you can handle the heat of history?',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: 'PPA',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 34,
+        Heading: 'Fun Fusion',
+        Description:
+          '"Prepare for an exhilarating blend of fun and intellect!" Fun Fusion features three exciting rounds filled with tasks and quizzes. Participants will kick off with timed challenges, followed by engaging quiz questions from biology, physics, and logic for bonus points. The second round includes a thrilling game, culminating in a final, challenging quiz. Don’t miss your chance to shine—join us to compete for the title of champion!',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: 'LA1-117',
+          Date: 'DAY 2',
+          Prizes: '',
+      },
+      {
+        id: 35,
+        Heading: 'Sell Me This Pen',
+        Description:
+          '"In sales, the most powerful tool is your passion!" Join us for “Sell me this pen,” a thrilling competition where teams will sell or advertise a product to a panel of judges. Participants will perform acts, skits, or direct sales pitches, showcasing their creativity and salesmanship. Only the best sales team will take home the title. Prepare to unleash your inner salesperson with the Finance Club!',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: 'DAY 1',
+          Prizes: '',
+      },
+      {
+        id: 36,
+        Heading: 'No Nerds November',
+        Description:
+          '"Get ready for a night of laughter without the nerdy stuff!" We\'re excited to present No Nerds November, featuring a renowned stand-up comedian who will deliver a hilarious performance and engage the crowd with interactive humor. In just one and a half hours, expect an entertaining experience that ensures everyone leaves with a smile. This is an event you won’t want to miss!',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: 'BBA',
+          Date: 'DAY 3',
+          Prizes: '',
+      },
+      {
+        id: 37,
+        Heading: 'Laughter LAFDA',
+        Description:
+          '"Laughter is the best medicine; be ready to see some hidden comedy gems!" OPEN MIC welcomes to LAUGHTER LAFDA, where undiscovered comedic talents shine in a friendly competition! In just 2 hours, participants will take the stage to showcase their unique styles and humor. Join us as we celebrate the art of comedy and enjoy an evening filled with laughter.',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: 'DAY 1',
+          Prizes: '',
+      },
+      {
+        id: 38,
+        Heading: 'Darth-a-lon',
+        Description:
+          'Join us for Darth-a-lon! A dart-throwing machine-making competition brought to you by ASME NIT Rourkela where participants will be able to showcase their creativity and precision engineering skills. Participants will design and construct their very own dart-throwing machines built to hit a specific target using a variety of materials provided to them within the time limit of 3 hours. Try your best shot and dart your way to victory!',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 39,
+        Heading: 'Esacpe Room',
+        Description:
+          'Step into a world of intrigue and mystery with a 3D Puzzle Escape Room Challenge, hosted by PrintStation, the official 3D printing club of NITR. Participants will be locked in a specially designed escape room filled with intricate 3D-printed clues. These clues are your only way out, but solving them won\'t be easy. With keen observation, creative thinking, teamwork, and an eye on the ticking clock piece together the clues, unlock hidden secrets, and find your way to freedom. Get ready for an immersive experience that combines the thrill of an escape room with the innovation of 3D printing. Are you up for the challenge?!',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 40,
+        Heading: 'Potter\'s Touch',
+        Description:
+          'Join us for Potter\'s Touch, a clay pottery workshop hosted by InCerS NITR, the ceramic society of our college. Learn the art of pottery from a professional clay potter and get a chances to make one on your own! Roll up your sleeves and prepare to get your hands dirty on the pottery wheel all while enjoying a calm, relaxing and creative atmosphere.',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 41,
+        Heading: 'HIP HOP Frenzy 1.0',
+        Description:
+          'Hip-Hop Frenzy 1.O, hosted by Synergy, is an inclusive dance event designed to teach the foundations of hip-hop and choreography to participants of all skill levels. Whether you\'re a beginner or experienced dancer, this energetic session will guide you through the basics while encouraging creativity and movement. Join us for a fun and dynamic dance experience!',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 42,
+        Heading: 'Concept Craze',
+        Description:
+          'Concept-Craze, organized by ASME NIT Rourkela Student Section, is a dynamic event where participants pitch innovative solutions to real-world problems within a limited time frame. This challenge tests creativity, critical thinking, and the ability to present ideas concisely. It\'s a great platform for aspiring engineers and problem-solvers to showcase their skills and bring forward impactful solutions.',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 43,
+        Heading: 'Shilp Setu',
+        Description:
+          'Shilp Setu, organized by the C.E.S.T Club, is a thrilling bridge-making competition where teams design and construct arc bridges using bricks, sand, and water. Participants will put their engineering skills and creativity to the test, aiming to build strong and visually appealing bridges. Judging will focus on structural integrity, innovative design, and aesthetics, challenging teams to create resilient structures with limited materials.',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 44,
+        Heading: 'Squid Game',
+        Description:
+          'Squid Game, hosted by the Grapevine Business Club, is an exciting event featuring two fun-filled, team-building challenges. In Tug of War – Team Building Edition, teams will compete in a traditional tug of war, but with a twist: solving puzzles between rounds to earn time bonuses. In Red Light, Green Light – Campus Race, participants race across campus, stopping when “Red Light” is called, testing their reflexes and strategy.',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: 'NCC Ground',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 45,
+        Heading: 'Drift-a-thon',
+        Description:
+          'Get ready to roll—super slowly—at Drift-A-Thon, hosted by LEO! This isn’t your typical race; it’s all about balance and control. Compete against 15 others as you try to cycle 50 meters at the slowest speed possible—without putting your feet down! The twist? It’s all for a good cause, with minimal entry fees going toward fundraising. It’s fun, it’s challenging, and it’s all about showing off your epic balancing skills. Are you up for the slowest race of your life?',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: 'STS Ground',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 46,
+        Heading: 'The Amazing Race',
+        Description:
+          'Get ready for an exhilarating race across campus, where teams will face a series of exciting challenges. Compete against the clock and other teams as you solve puzzles, complete tasks, and collaborate to reach the final destination. It’s a fast-paced, team-based competition where everyone has a chance to shine. Rally your squad and race to victory—are you up for the challenge?',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 47,
+        Heading: 'Who Am I? (MOVIE EDITION)',
+        Description:
+          'Lights, camera, guess! MATRIX CLUB brings you Who Am I? (Movie Edition)—the ultimate movie character guessing game. With a card stuck to your forehead, you’ll have to ask yes/no questions to determine which iconic movie character or celebrity you are. Can you guess it before time runs out? Ready, set, action!',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 48,
+        Heading: 'Turbo Trivia Treasure Hunt',
+        Description:
+          'Join us for an exhilarating event where teams race across campus, tackling a series of engaging challenges. Begin your adventure with a trivia question that leads you to your first clue, then work together to solve a riddle that uncovers your next location. Finally, compete in a showdown to earn the ultimate clue that will guide you to the hidden treasure. The first team to find it and return wins! This exciting blend of teamwork, creativity, and exploration will have you discovering the campus like never before!',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 49,
+        Heading: 'Perfume Making Demonstration',
+        Description:
+          'Join us for the event “Perfume Making Demonstration” and learn the art of perfume-making from a professional perfume maker and customizer. Learn about the ingredients used while making perfumes and make one on your own! You can also buy perfumes customised according to your wish.',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
+      {
+        id: 50,
+        Heading: 'Hands on Workshop',
+        Description:
+          'The Genesys club\'s Hands-On Workshop invites a biotechnology or biomedical startup to showcase their innovative product and guide participants through its design and functionality. In this interactive session, students will gain in-depth insights into the development and working of cutting-edge technologies. For example, a startup like Upside Down Labs, which creates DIY Neuroscience Kits, could demonstrate how these tools enable projects in Brain-Computer Interfaces (BCI) and Human-Computer Interfaces (HCI), offering students a unique learning experience.',
+        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        Location: '',
+          Date: '',
+          Prizes: '',
+      },
   ];
