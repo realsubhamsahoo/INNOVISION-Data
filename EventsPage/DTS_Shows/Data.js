@@ -1,25 +1,25 @@
 export const DTS_previewItems = [
     {
       id: 1,
-      ImageURL: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_HeSzHfBorKS4muw4IIeVvvRgnhyO8Gn8w&s',
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
       PreviewDescription:
         'Coming Soon...',
     },
     {
       id: 2,
-      ImageURL: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_HeSzHfBorKS4muw4IIeVvvRgnhyO8Gn8w&s',
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
       PreviewDescription:
         'Coming Soon...',
     },
     {
       id: 3,
-      ImageURL: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_HeSzHfBorKS4muw4IIeVvvRgnhyO8Gn8w&s',
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
       PreviewDescription:
         'Coming Soon...',
     },
     {
       id: 4,
-      ImageURL: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_HeSzHfBorKS4muw4IIeVvvRgnhyO8Gn8w&s',
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
       PreviewDescription:
         'Coming Soon...',
     },
@@ -31,7 +31,7 @@ export const DTS_previewItems = [
       Heading: 'Coming Soon...',
       Description:
         'Coming Soon...',
-      ImageURL: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_HeSzHfBorKS4muw4IIeVvvRgnhyO8Gn8w&s',
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
       Location: '',
       Date: ''
     },
@@ -40,7 +40,7 @@ export const DTS_previewItems = [
       Heading: 'Coming Soon...',
       Description:
         'Coming Soon...',
-      ImageURL: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_HeSzHfBorKS4muw4IIeVvvRgnhyO8Gn8w&s',
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
       Location: '',
       Date: ''
     },
@@ -49,7 +49,7 @@ export const DTS_previewItems = [
       Heading: 'Coming Soon...',
       Description:
         'Coming Soon...',
-      ImageURL: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_HeSzHfBorKS4muw4IIeVvvRgnhyO8Gn8w&s',
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
       Location: '',
       Date: ''
     },
@@ -58,7 +58,7 @@ export const DTS_previewItems = [
       Heading: 'Coming Soon...',
       Description:
         'Coming Soon...',
-      ImageURL: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_HeSzHfBorKS4muw4IIeVvvRgnhyO8Gn8w&s',
+      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
       Location: '',
       Date: ''
     },
