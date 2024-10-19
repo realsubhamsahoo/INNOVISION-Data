@@ -183,121 +183,121 @@ export const ME_previewItems = [
         id: 31,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Bears and Bulls, the official trading club of NITR, presents to you Traders Talk, an engaging lecture featuring renowned experts in the field of trading and finance who will share their insights...',
       },
       {
         id: 32,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Get ready for Idea Unlocked by MATRIX CLUB! Test your brand knowledge with a fun logo quiz, then unleash your creativity by pitching your most innovative business ideas...',
       },
       {
         id: 33,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Get ready to time-travel with Decade Dash by the Finance Club! Buckle up as you jump through iconic moments in history, from major world wars to economic booms, where global events will shake up real estate and country prices...',
       },
       {
         id: 34,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          '"Prepare for an exhilarating blend of fun and intellect!" Fun Fusion features three exciting rounds filled with tasks and quizzes. Participants will kick off with timed challenges, followed by engaging quiz questions...',
       },
       {
         id: 35,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          '"In sales, the most powerful tool is your passion!" Join us for “Sell me this pen,” a thrilling competition where teams will sell or advertise a product to a panel of judges...',
       },
       {
         id: 36,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          '"Get ready for a night of laughter without the nerdy stuff!" We\'re excited to present No Nerds November, featuring a renowned stand-up comedian who will deliver a hilarious performance and engage the crowd with interactive humor...',
       },
       {
         id: 37,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          '"Laughter is the best medicine; be ready to see some hidden comedy gems!" OPEN MIC welcomes to LAUGHTER LAFDA, where undiscovered comedic talents shine in a friendly competition...',
       },
       {
         id: 38,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Join us for Darth-a-lon! A dart-throwing machine-making competition brought to you by ASME NIT Rourkela where participants will be able to showcase their creativity and precision engineering skills...',
       },
       {
         id: 39,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Step into a world of intrigue and mystery with a 3D Puzzle Escape Room Challenge, hosted by PrintStation, the official 3D printing club of NITR. Participants will be locked in a specially designed escape room filled with intricate 3D-printed clues.',
       },
       {
         id: 40,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Join us for Potter\'s Touch, a clay pottery workshop hosted by InCerS NITR, the ceramic society of our college. Learn the art of pottery from a professional clay potter and get a chances to make one on your own...',
       },
       {
         id: 41,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Hip-Hop Frenzy 1.O, hosted by Synergy, is an inclusive dance event designed to teach the foundations of hip-hop and choreography to participants of all skill levels...',
       },
       {
         id: 42,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Concept-Craze, organized by ASME NIT Rourkela Student Section, is a dynamic event where participants pitch innovative solutions to real-world problems within a limited time frame. This challenge tests creativity...',
       },
       {
         id: 43,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Shilp Setu, organized by the C.E.S.T Club, is a thrilling bridge-making competition where teams design and construct arc bridges using bricks, sand, and water. Participants will put their engineering skills and creativity to the test...',
       },
       {
         id: 44,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Squid Game, hosted by the Grapevine Business Club, is an exciting event featuring two fun-filled, team-building challenges. In Tug of War – Team Building Edition, teams will compete in a traditional tug of war...',
       },
       {
         id: 45,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Get ready to roll—super slowly—at Drift-A-Thon, hosted by LEO! This isn’t your typical race; it’s all about balance and control. Compete against 15 others as you try to cycle 50 meters at the slowest speed possible...',
       },
       {
         id: 46,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Get ready for an exhilarating race across campus, where teams will face a series of exciting challenges. Compete against the clock and other teams as you solve puzzles, complete tasks, and collaborate to reach the final destination...',
       },
       {
         id: 47,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Lights, camera, guess! MATRIX CLUB brings you Who Am I? (Movie Edition)—the ultimate movie character guessing game. With a card stuck to your forehead, you’ll have to ask yes/no questions...',
       },
       {
         id: 48,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Join us for an exhilarating event where teams race across campus, tackling a series of engaging challenges. Begin your adventure with a trivia question that leads you to your first clue, then work together to solve a riddle...',
       },
       {
         id: 49,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'Join us for the event “Perfume Making Demonstration” and learn the art of perfume-making from a professional perfume maker and customizer...',
       },
       {
         id: 50,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
-          '',
+          'The Genesys club\'s Hands-On Workshop invites a biotechnology or biomedical startup to showcase their innovative product and guide participants through its design and functionality...',
       },
   ];
   
@@ -721,7 +721,7 @@ export const ME_previewItems = [
       },
       {
         id: 39,
-        Heading: 'Esacpe Room',
+        Heading: 'Escape Room',
         Description:
           'Step into a world of intrigue and mystery with a 3D Puzzle Escape Room Challenge, hosted by PrintStation, the official 3D printing club of NITR. Participants will be locked in a specially designed escape room filled with intricate 3D-printed clues. These clues are your only way out, but solving them won\'t be easy. With keen observation, creative thinking, teamwork, and an eye on the ticking clock piece together the clues, unlock hidden secrets, and find your way to freedom. Get ready for an immersive experience that combines the thrill of an escape room with the innovation of 3D printing. Are you up for the challenge?!',
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
