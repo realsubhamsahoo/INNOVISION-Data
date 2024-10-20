@@ -48,13 +48,6 @@ export const FE_previewItems = [
         'Join Stellar Night, a stargazing event by Astro NITR. Observe celestial objects like the Moon, Mars, Saturn, Jupiter, and its moons through powerful telescopes. Learn about astronomy and have a fun night under the stars!',
       Rulebook: ''
     },
-    {
-        id: 8,
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
-        PreviewDescription:
-          '"Chemistry has energy and it\'s meant to be felt." In this thrilling event, teams of up to 5 students are challenged to design and construct a miniature car powered solely by chemical reactions.',
-        Rulebook: ''
-    },
   ];
   
   export const FE_descriptionItems = [
@@ -135,15 +128,4 @@ export const FE_previewItems = [
         Time: '10 PM - 2 AM',
         Prizes: '',
     },
-    {
-        id: 8,
-        Heading: 'CHEM-E-CAR',
-        Description:
-          '"Chemistry has energy and it\'s meant to be felt." In this thrilling event, teams of up to 5 students are challenged to design and construct a miniature car powered solely by chemical reactions. From the moment it starts to its final stop, every aspect of the car\'s motion must be driven by chemical processes, with no electricity or manual intervention. This event challenges you to merge chemistry with engineering and problem-solving skills. Come experience the thrill of innovation as your creation races into action. ',
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
-        Location: 'LA-Room for Day 01(for workshop) , Chemical Eng. Dept New Seminar Hall for Day 03: Chem-E-Car Test Run',
-          Date: 'Day 01 (Workshop), Day 03 (Car Testing)',
-          Time: 'DAY 1: 2 PM - 5 PM, DAY 3: 11 AM - 1 PM',
-          Prizes: '',
-      },
-  ];c
+  ];
