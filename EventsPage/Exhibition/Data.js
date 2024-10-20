@@ -34,7 +34,7 @@ export const Exhibition_previewItems = [
       ImageURL: 'https://res.cloudinary.com/dsse5djcy/image/upload/f_auto,q_auto/v1/INNO/zr00klxr3kup5pnapemg',
       Location: 'RM Lawns',
       Date: 'DAY 2 & 3',
-      Time: 'TBA'
+      Time: 'ALL DAY'
     },
     {
       id: 2,
@@ -44,7 +44,7 @@ export const Exhibition_previewItems = [
       ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
       Location: 'RM Hall',
       Date: 'DAY 2 & 3',
-      Time: 'TBA'
+      Time: 'ALL DAY'
     },
     {
       id: 3,
@@ -54,7 +54,7 @@ export const Exhibition_previewItems = [
       ImageURL: 'https://res.cloudinary.com/dsse5djcy/image/upload/f_auto,q_auto/v1/INNO/ytzstb65zif8x2jnj8z4',
       Location: 'Chemical Dept Parking',
       Date: 'DAY 2',
-      Time: 'TBA'
+      Time: 'ALL DAY'
     },
     {
       id: 4,
@@ -64,6 +64,6 @@ export const Exhibition_previewItems = [
       ImageURL: 'https://res.cloudinary.com/dsse5djcy/image/upload/f_auto,q_auto/v1/INNO/uqjjhsq1bl3nk7y2cbki',
       Location: 'RM HALL',
       Date: 'DAY 2 & 3',
-      Time: 'TBA'
+      Time: 'ALL DAY'
     },
   ];
