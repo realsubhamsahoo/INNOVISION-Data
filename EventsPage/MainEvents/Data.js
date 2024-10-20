@@ -10,12 +10,14 @@ export const ME_previewItems = [
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179005/inno-2024/Event%20Posters/DesignTab/q2cmztmsuzffzzhw1oqo.png',
       PreviewDescription:
         'If it could be said in words there would be no reason to paint. NEO Palette is your chance to let your imagination speak...',
+    Rulebook: 'https://drive.google.com/open?id=1EfvuJv-ku89SjpL-_38_DfW8OXT61M3f'
     },
     {
       id: 3,
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179007/inno-2024/Event%20Posters/omc/punchline%20panchayat/dwp4xyq08fcemqn9nxtj.png',
       PreviewDescription:
         '"Laughter is timeless, and the stage is set!" Get ready for Punchline Panchayat...',
+    Rulebook: 'https://drive.google.com/open?id=1vURHQces2zuA2GtjoPQxX0vU_meMSqVD'
     },
     {
       id: 4,
@@ -40,12 +42,14 @@ export const ME_previewItems = [
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179007/inno-2024/Event%20Posters/Bears%20and%20Bulls/gdmjrwrzmbnmvgpzzpqf.png',
       PreviewDescription:
         'The Algorithm and Programming Society of NITR is back with its flagship event of INNOVISION, Meteor Madness, an interact ive game involving a logrithmic problems and brainstorming quizzes...',
+     Rulebook: 'https://drive.google.com/open?id=1EvX1JSCzAJGXdt3pdGmuvouE6ZHr9TYL'
     },
     {
       id: 8,
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179011/inno-2024/Event%20Posters/The%20Bioscience%20Society%20-%20Brainy%20Escape%203.0/ddcl3drtik9setdlkxlf.png',
       PreviewDescription:
         '"Every clue is a step closer to the truth!" This interactive murder mystery invites you to solve a thrilling case of an unsolved murder...',
+     Rulebook: 'https://drive.google.com/open?id=1U0MbayRDvtab-d6RWSVBbGD0OftxmmCg'
     },
     {
         id: 9,
@@ -58,6 +62,8 @@ export const ME_previewItems = [
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //tba
         PreviewDescription:
           'Get ready for the ultimate challenge with OpenChase: a Hybrid Treasure Hunt, brought to you by OpenCode!...',
+        Rulebook: 'https://drive.google.com/open?id=1OWOfXrTX4h9uToToi0A9c2eC6nAMHQh6'
+        
       },
       {
         id: 11,
@@ -76,12 +82,14 @@ export const ME_previewItems = [
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179010/inno-2024/Event%20Posters/Sci%20Savior-Inspire%20Club/ofq0fs5l9vtzdbfu2p33.png',
         PreviewDescription:
           'In this exciting team-based event, teams of 4 will tackle three thrilling challenges—Pictionary, Puzzle Pursuit, and Science Riddles—to rescue their imaginary friend...',
+       Rulebook: 'https://drive.google.com/open?id=1YyUraTfqxDz-DzycaaiWLjIWPGgO9r5m'
       },
       {
         id: 14,
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179016/inno-2024/Event%20Posters/Webclone%20mania_Webwiz/yobeoxuxwbxm1mwvdtes.png',
         PreviewDescription:
           'Webwiz, the web development club of NIT Rourkela, brings to you WebClone Mania, an excellent opportunity to compete and exhibit your developing skills...',
+       Rulebook: 'https://drive.google.com/open?id=16v_tF1awW4kTG0XEDafKs54oF-o5sk6P'
       },
       {
         id: 15,
@@ -166,6 +174,7 @@ export const ME_previewItems = [
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179009/inno-2024/Event%20Posters/Business%20Pictionary%20-%20Grapevine/dedx2sfes6oib1gv7keo.png',
         PreviewDescription:
           'Get ready for "Business Pictionary" by the Grapevine Business Club! In this fun and interactive event, participants will take turns drawing business-related terms like "branding," "stock market," and "start-up"...',
+        Rulebook: 'https://drive.google.com/open?id=1YZWKTtD2I8WNwm_LCwSqbK6q3032HdnD'
       },
       {
         id: 29,
@@ -178,6 +187,7 @@ export const ME_previewItems = [
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179011/inno-2024/Event%20Posters/FTS/xk2bx2rmqkqu5lmvzgpd.png',
         PreviewDescription:
           'TBA',
+        Rulebook: 'https://drive.google.com/open?id=1ZhmVfC9MwlYk-NT4ZgdpEhtPX1oPQ0WD'
       },
       {
         id: 31,
@@ -202,6 +212,7 @@ export const ME_previewItems = [
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           '"Prepare for an exhilarating blend of fun and intellect!" Fun Fusion features three exciting rounds filled with tasks and quizzes. Participants will kick off with timed challenges, followed by engaging quiz questions...',
+        Rulebook: 'https://drive.google.com/open?id=1b30mhvuRZv4q_LfTCoZrAOUTDY3pg7Hh'
       },
       {
         id: 35,
