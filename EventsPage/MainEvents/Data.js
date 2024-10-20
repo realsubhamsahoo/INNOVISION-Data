@@ -23,40 +23,40 @@ export const ME_previewItems = [
     {
       id: 4,
       ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
-      PreviewDescription:
-        'This event invites aspiring engineers and innovators to design, build, and test their very own mini chassis from the ground up...',
+      PreviewDescription: 'This event invites aspiring engineers and innovators to design, build, and test their very own mini chassis from the ground up...',
+      Rulebook: ''
     },
     {
       id: 5,
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179013/inno-2024/Event%20Posters/STEELLUN%20-%20The%20Material%20Advantage%20Chapter%2C%20NITR/midccr2zknd4zbezvj6j.png',
-      PreviewDescription:
-        'Join us for an engaging two-round event that tests your knowledge and practical skills!...',
+      PreviewDescription: 'Join us for an engaging two-round event that tests your knowledge and practical skills!...',
+      Rulebook: ''
     },
     {
       id: 6,
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179006/inno-2024/Event%20Posters/E-Cell%20-%20IPL%20Auction/rjt0ynbdwdap7hj3unqt.png',
-      PreviewDescription:
-        '"It\'s not just about cheering from the stands; it\'s about building the winning team!" E-Cell presents the IPL Auction...',
+      PreviewDescription: '"It\'s not just about cheering from the stands; it\'s about building the winning team!" E-Cell presents the IPL Auction...',
+      Rulebook: ''
     },
     {
       id: 7,
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179007/inno-2024/Event%20Posters/Bears%20and%20Bulls/gdmjrwrzmbnmvgpzzpqf.png',
       PreviewDescription:
         'The Algorithm and Programming Society of NITR is back with its flagship event of INNOVISION, Meteor Madness, an interact ive game involving a logrithmic problems and brainstorming quizzes...',
-     Rulebook: 'https://drive.google.com/open?id=1EvX1JSCzAJGXdt3pdGmuvouE6ZHr9TYL'
+      Rulebook: 'https://drive.google.com/open?id=1EvX1JSCzAJGXdt3pdGmuvouE6ZHr9TYL'
     },
     {
       id: 8,
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179011/inno-2024/Event%20Posters/The%20Bioscience%20Society%20-%20Brainy%20Escape%203.0/ddcl3drtik9setdlkxlf.png',
       PreviewDescription:
         '"Every clue is a step closer to the truth!" This interactive murder mystery invites you to solve a thrilling case of an unsolved murder...',
-     Rulebook: 'https://drive.google.com/open?id=1U0MbayRDvtab-d6RWSVBbGD0OftxmmCg'
+      Rulebook: 'https://drive.google.com/open?id=1U0MbayRDvtab-d6RWSVBbGD0OftxmmCg'
     },
     {
         id: 9,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //tba
-        PreviewDescription:
-          'TBA',
+        PreviewDescription: 'TBA',
+        Rulebook: ''
     },
     {
         id: 10,
@@ -71,56 +71,62 @@ export const ME_previewItems = [
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //tba
         PreviewDescription:
           'Gear up to race against time! SAE NITR presents to you the “Virtual Racing Simulator Competition”, a super enthralling event...',
+        Rulebook: ''
       },
       {
         id: 12,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //tba
         PreviewDescription:
           'Put your chemistry knowledge to the ultimate test with Molecule Mania, a thrilling mix of crossword puzzles and rapid-fire quizzes!...',
+       Rulebook: 'https://drive.google.com/open?id=1uftrmZ3gt5LslHEKzNvdU5fJqMd0NXOA'
       },
       {
         id: 13,
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179010/inno-2024/Event%20Posters/Sci%20Savior-Inspire%20Club/ofq0fs5l9vtzdbfu2p33.png',
         PreviewDescription:
           'In this exciting team-based event, teams of 4 will tackle three thrilling challenges—Pictionary, Puzzle Pursuit, and Science Riddles—to rescue their imaginary friend...',
-       Rulebook: 'https://drive.google.com/open?id=1YyUraTfqxDz-DzycaaiWLjIWPGgO9r5m'
+        Rulebook: 'https://drive.google.com/open?id=1YyUraTfqxDz-DzycaaiWLjIWPGgO9r5m'
       },
       {
         id: 14,
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179016/inno-2024/Event%20Posters/Webclone%20mania_Webwiz/yobeoxuxwbxm1mwvdtes.png',
         PreviewDescription:
           'Webwiz, the web development club of NIT Rourkela, brings to you WebClone Mania, an excellent opportunity to compete and exhibit your developing skills...',
-       Rulebook: 'https://drive.google.com/open?id=16v_tF1awW4kTG0XEDafKs54oF-o5sk6P'
+        Rulebook: 'https://drive.google.com/open?id=16v_tF1awW4kTG0XEDafKs54oF-o5sk6P'
       },
       {
         id: 15,
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179003/inno-2024/Event%20Posters/BrainBoxed%202.0%20%28AnC%29/evl3gsfmephbdm18zqta.png',
-        PreviewDescription:
-          '',
+        PreviewDescription: '',
+        Rulebook: ''
       },
       {
         id: 16,
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179015/inno-2024/Event%20Posters/Short%20Circuit/ra3gzjbnsqgv32hn1nva.png',
         PreviewDescription:
           'This exciting event challenges participants to showcase their creativity and technical skills through three engaging rounds. Kick things off with a Preliminary Online Test to assess your hardware knowledge...',
+        Rulebook: ''
       },
       {
         id: 17,
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729178999/inno-2024/Event%20Posters/ASME/xqnzvvsjy5dtxftyvvbn.png',
         PreviewDescription:
           'Gear up for TURBOGEN-X with the ASME NIT Rourkela Student Section! Your mission: build a windmill using paper, cardboard, or acrylic sheets, and connect it to a dynamo...',
+       Rulebook: 'https://drive.google.com/open?id=1X9ixbfCjY7WgbxkgdK2ak0sDFzw2iOn1'
       },
       {
         id: 18,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
         PreviewDescription:
           'HoloCampus is a groundbreaking initiative by the GTA at NIT Rourkela, debuting at Innovision 2024. As India’s first immersive holographic experience, it blends live video feeds with futuristic virtual enhancements, allowing attendees to explore the campus like never before...',
+        Rulebook: ''
       },
       {
         id: 19,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //aiche TBA
         PreviewDescription:
           'Simulating Solutions 2.0 is an exhilarating competition hosted by the AIChe NIT Rourkela Student Chapter, the vibrant community for chemical engineers and enthusiasts...',
+        Rulebook: ''
       },
       {
         id: 20,
@@ -134,6 +140,7 @@ export const ME_previewItems = [
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179009/inno-2024/Event%20Posters/Jnanagni%20-%20Inquizzitive/bb8thtrztcbxikvjjgjo.png',
         PreviewDescription:
           '"Ignite your knowledge and fuel your passion for learning!" Join INQUIZZITIVE for JNANAGNI, a dynamic business and technology-themed quiz contest...',
+        Rulebook: ''
       },
       {
         id: 22,
@@ -154,24 +161,28 @@ export const ME_previewItems = [
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179000/inno-2024/Event%20Posters/tl0i8idt3sozlan2s7cy.png',
         PreviewDescription:
           'Get ready to dive into a thrilling competition where strategy, creativity, and quick thinking reign supreme. In this unique event, each team will receive a set amount of ‘credits’ to start their bidding journey...',
+        Rulebook: ''
       },
       {
         id: 25,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //cyborg TBA
         PreviewDescription:
           '"Only the strongest can dominate the ring." Prepared for the Robo-Sumo War , where robots face off in a thrilling wrestling match on an enclosed circular platform...',
+       Rulebook: ''
       },
       {
         id: 26,
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179016/inno-2024/Event%20Posters/Shake%20It%20Off-%20CEST/axcxc1bg60cyvv6cdunn.jpg',
         PreviewDescription:
           'Shake It Off! A competition organized by the CEST Club of NIT Rourkela to test your technical and structural knowledge. Participants will be tasked with building a strong structure capable of withstanding loading and tremor tests...',
+        Rulebook: ''
       },
       {
         id: 27,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //Hustlemania TBA
         PreviewDescription:
           '“There are shortcuts to happiness, and dancing is one of them.” Unleash your moves in The Hustlemania 3.0.This thrilling freestyle dance event features Solo and Duo categories...',
+        Rulebook: ''
       },
       {
         id: 28,
@@ -185,6 +196,7 @@ export const ME_previewItems = [
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179013/inno-2024/Event%20Posters/UDAAN/d6xoa6vlebahnb7q86gv.png',
         PreviewDescription:
           '"Get ready for an electrifying battle of innovation and skill!" In Hovermania, two teams will face off in an epic hovercraft showdown, where low-cost designs fuel intense competition...',
+        Rulebook: ''
       },
       {
         id: 30,
@@ -198,18 +210,21 @@ export const ME_previewItems = [
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Bears and Bulls, the official trading club of NITR, presents to you Traders Talk, an engaging lecture featuring renowned experts in the field of trading and finance who will share their insights...',
+        Rulebook: ''
       },
       {
         id: 32,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Get ready for Idea Unlocked by MATRIX CLUB! Test your brand knowledge with a fun logo quiz, then unleash your creativity by pitching your most innovative business ideas...',
+        Rulebook: ''
       },
       {
         id: 33,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Get ready to time-travel with Decade Dash by the Finance Club! Buckle up as you jump through iconic moments in history, from major world wars to economic booms, where global events will shake up real estate and country prices...',
+        Rulebook: ''
       },
       {
         id: 34,
@@ -223,96 +238,112 @@ export const ME_previewItems = [
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           '"In sales, the most powerful tool is your passion!" Join us for “Sell me this pen,” a thrilling competition where teams will sell or advertise a product to a panel of judges...',
+        Rulebook: ''
       },
       {
         id: 36,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           '"Get ready for a night of laughter without the nerdy stuff!" We\'re excited to present No Nerds November, featuring a renowned stand-up comedian who will deliver a hilarious performance and engage the crowd with interactive humor...',
+        Rulebook: ''
       },
       {
         id: 37,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           '"Laughter is the best medicine; be ready to see some hidden comedy gems!" OPEN MIC welcomes to LAUGHTER LAFDA, where undiscovered comedic talents shine in a friendly competition...',
+        Rulebook: ''
       },
       {
         id: 38,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Join us for Darth-a-lon! A dart-throwing machine-making competition brought to you by ASME NIT Rourkela where participants will be able to showcase their creativity and precision engineering skills...',
+        Rulebook: ''
       },
       {
         id: 39,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Step into a world of intrigue and mystery with a 3D Puzzle Escape Room Challenge, hosted by PrintStation, the official 3D printing club of NITR. Participants will be locked in a specially designed escape room filled with intricate 3D-printed clues.',
+        Rulebook: ''
       },
       {
         id: 40,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Join us for Potter\'s Touch, a clay pottery workshop hosted by InCerS NITR, the ceramic society of our college. Learn the art of pottery from a professional clay potter and get a chances to make one on your own...',
+        Rulebook: ''
       },
       {
         id: 41,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Hip-Hop Frenzy 1.O, hosted by Synergy, is an inclusive dance event designed to teach the foundations of hip-hop and choreography to participants of all skill levels...',
+        Rulebook: ''
       },
       {
         id: 42,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Concept-Craze, organized by ASME NIT Rourkela Student Section, is a dynamic event where participants pitch innovative solutions to real-world problems within a limited time frame. This challenge tests creativity...',
+       Rulebook: ''
       },
       {
         id: 43,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Shilp Setu, organized by the C.E.S.T Club, is a thrilling bridge-making competition where teams design and construct arc bridges using bricks, sand, and water. Participants will put their engineering skills and creativity to the test...',
+       Rulebook: ''
       },
       {
         id: 44,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Squid Game, hosted by the Grapevine Business Club, is an exciting event featuring two fun-filled, team-building challenges. In Tug of War – Team Building Edition, teams will compete in a traditional tug of war...',
+        Rulebook: ''
       },
       {
         id: 45,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Get ready to roll—super slowly—at Drift-A-Thon, hosted by LEO! This isn’t your typical race; it’s all about balance and control. Compete against 15 others as you try to cycle 50 meters at the slowest speed possible...',
+        Rulebook: ''
       },
       {
         id: 46,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Get ready for an exhilarating race across campus, where teams will face a series of exciting challenges. Compete against the clock and other teams as you solve puzzles, complete tasks, and collaborate to reach the final destination...',
+        Rulebook: ''
       },
       {
         id: 47,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Lights, camera, guess! MATRIX CLUB brings you Who Am I? (Movie Edition)—the ultimate movie character guessing game. With a card stuck to your forehead, you’ll have to ask yes/no questions...',
+       Rulebook: ''
       },
       {
         id: 48,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Join us for an exhilarating event where teams race across campus, tackling a series of engaging challenges. Begin your adventure with a trivia question that leads you to your first clue, then work together to solve a riddle...',
+        Rulebook: ''
       },
       {
         id: 49,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Join us for the event “Perfume Making Demonstration” and learn the art of perfume-making from a professional perfume maker and customizer...',
+        Rulebook: ''
       },
       {
         id: 50,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'The Genesys club\'s Hands-On Workshop invites a biotechnology or biomedical startup to showcase their innovative product and guide participants through its design and functionality...',
+       Rulebook: ''
       },
   ];
   
