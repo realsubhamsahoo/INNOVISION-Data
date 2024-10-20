@@ -19,7 +19,7 @@ export const DTS_previewItems = [
     },
     {
       id: 4,
-      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
+      ImageURL: 'https://res.cloudinary.com/dsse5djcy/image/upload/f_auto,q_auto/v1/INNO/elvwnsychizhjl3zzvyj',
       PreviewDescription:
         'Get ready to vibe with Drill N\' Bass at Trancenation! Experience a night filled with exhilarating beats that blend EDM, pop, and hip-hop...',
     },
@@ -61,7 +61,7 @@ export const DTS_previewItems = [
       Heading: 'Transcenation',
       Description:
         'Get ready to vibe with Drill N\' Bass at Trancenation! Experience a night filled with exhilarating beats that blend EDM, pop, and hip-hop! Kick things off with a 45-minute live set of crowd favorites, followed by an epic 1-hour DJ set featuring original bangers from our crew.',
-      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
+      ImageURL: 'https://res.cloudinary.com/dsse5djcy/image/upload/f_auto,q_auto/v1/INNO/elvwnsychizhjl3zzvyj',
       Location: 'DTS Stage',
       Date: 'TBA',
       Time: 'TBA'
