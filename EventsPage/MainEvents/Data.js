@@ -30,13 +30,13 @@ export const ME_previewItems = [
       id: 5,
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179013/inno-2024/Event%20Posters/STEELLUN%20-%20The%20Material%20Advantage%20Chapter%2C%20NITR/midccr2zknd4zbezvj6j.png',
       PreviewDescription: 'Join us for an engaging two-round event that tests your knowledge and practical skills!...',
-      Rulebook: ''
+      Rulebook: 'https://drive.google.com/open?id=1GwnQiCUZUvUlS-RimnFkwQRMRppXJA_W'
     },
     {
       id: 6,
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179006/inno-2024/Event%20Posters/E-Cell%20-%20IPL%20Auction/rjt0ynbdwdap7hj3unqt.png',
       PreviewDescription: '"It\'s not just about cheering from the stands; it\'s about building the winning team!" E-Cell presents the IPL Auction...',
-      Rulebook: ''
+      Rulebook: 'https://drive.google.com/open?id=1cdnn9zNc0M_QJqVJVJfB9-TbY-n0DR8h'
     },
     {
       id: 7,
@@ -71,7 +71,7 @@ export const ME_previewItems = [
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //tba
         PreviewDescription:
           'Gear up to race against time! SAE NITR presents to you the “Virtual Racing Simulator Competition”, a super enthralling event...',
-        Rulebook: ''
+        Rulebook: 'https://drive.google.com/open?id=1TpuhJcOWtwHXNn0Y1pjmIfOnvVRgGqX6'
       },
       {
         id: 12,
@@ -168,14 +168,14 @@ export const ME_previewItems = [
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //cyborg TBA
         PreviewDescription:
           '"Only the strongest can dominate the ring." Prepared for the Robo-Sumo War , where robots face off in a thrilling wrestling match on an enclosed circular platform...',
-       Rulebook: ''
+       Rulebook: 'https://drive.google.com/open?id=14g030ytb4CR441rFT5py8JgCH76_mty3'
       },
       {
         id: 26,
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179016/inno-2024/Event%20Posters/Shake%20It%20Off-%20CEST/axcxc1bg60cyvv6cdunn.jpg',
         PreviewDescription:
           'Shake It Off! A competition organized by the CEST Club of NIT Rourkela to test your technical and structural knowledge. Participants will be tasked with building a strong structure capable of withstanding loading and tremor tests...',
-        Rulebook: ''
+        Rulebook: 'https://drive.google.com/open?id=19Ao5CqTU84R9tGwspIGFxqqsj_L-0GtL'
       },
       {
         id: 27,
@@ -196,7 +196,7 @@ export const ME_previewItems = [
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179013/inno-2024/Event%20Posters/UDAAN/d6xoa6vlebahnb7q86gv.png',
         PreviewDescription:
           '"Get ready for an electrifying battle of innovation and skill!" In Hovermania, two teams will face off in an epic hovercraft showdown, where low-cost designs fuel intense competition...',
-        Rulebook: ''
+        Rulebook: 'https://drive.google.com/open?id=1euXiBThxu5uq1zpDCTlsZN0fH1-Cs-Fx'
       },
       {
         id: 30,
@@ -308,14 +308,14 @@ export const ME_previewItems = [
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Get ready to roll—super slowly—at Drift-A-Thon, hosted by LEO! This isn’t your typical race; it’s all about balance and control. Compete against 15 others as you try to cycle 50 meters at the slowest speed possible...',
-        Rulebook: ''
+        Rulebook: 'https://drive.google.com/open?id=1KgNYB-zSkhbESyvsmE_coBKPF6aHK5W2'
       },
       {
         id: 46,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
           'Get ready for an exhilarating race across campus, where teams will face a series of exciting challenges. Compete against the clock and other teams as you solve puzzles, complete tasks, and collaborate to reach the final destination...',
-        Rulebook: ''
+        Rulebook: 'https://drive.google.com/open?id=1xMGGvGsyHUW90euvg18FIs3FD31CbdOb'
       },
       {
         id: 47,
