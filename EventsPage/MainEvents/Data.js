@@ -1,7 +1,7 @@
 export const ME_previewItems = [
     {
       id: 1,
-      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
+      ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729430506/INNO_events/Inno%20Club%20Posters/lpnxaifia1oeuhidclqr.png', //TBA
       PreviewDescription:
         '"Can you decode the future of business?" Join us for PSI PHI, our annual Business Hackathon, where mathematics meets strategy!...',
       Rulebook: 'https://drive.google.com/open?id=1Vgc_35f1NxMIdPp4uB4abJBd2-vV18Wh'
@@ -60,7 +60,7 @@ export const ME_previewItems = [
     },
     {
         id: 10,
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //tba
+        ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729432800/INNO_events/Inno%20Club%20Posters/tqjvoypanukjacsqdhar.png', //tba
         PreviewDescription:
           'Get ready for the ultimate challenge with OpenChase: a Hybrid Treasure Hunt, brought to you by OpenCode!...',
         Rulebook: 'https://drive.google.com/open?id=1OWOfXrTX4h9uToToi0A9c2eC6nAMHQh6'
@@ -68,7 +68,7 @@ export const ME_previewItems = [
       },
       {
         id: 11,
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //tba
+        ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729432942/INNO_events/Inno%20Club%20Posters/rjunpvmcjesqfrie4gp4.png', //tba
         PreviewDescription:
           'Gear up to race against time! SAE NITR presents to you the “Virtual Racing Simulator Competition”, a super enthralling event...',
         Rulebook: 'https://drive.google.com/open?id=1TpuhJcOWtwHXNn0Y1pjmIfOnvVRgGqX6'
@@ -151,7 +151,7 @@ export const ME_previewItems = [
       },
       {
         id: 23,
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
+        ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729433504/INNO_events/Inno%20Club%20Posters/ln2ll3mwzq9swbdsi6mq.png', //TBA
         PreviewDescription:
           '"The ocean stirs the heart, inspires the imagination, and brings eternal joy to the soul." Dive into the exciting world of robotics with Fish-Eye, hosted by Team TIBURON!...',
         Rulebook: 'https://drive.google.com/open?id=1cl4mDW0sGyBJC5Py1AdjpREpYZme2Sq3'
@@ -165,7 +165,7 @@ export const ME_previewItems = [
       },
       {
         id: 25,
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //cyborg TBA
+        ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729433610/INNO_events/Inno%20Club%20Posters/oaxv1zyxjuotqvzzvcrv.png', //cyborg TBA
         PreviewDescription:
           '"Only the strongest can dominate the ring." Prepared for the Robo-Sumo War , where robots face off in a thrilling wrestling match on an enclosed circular platform...',
        Rulebook: 'https://drive.google.com/open?id=14g030ytb4CR441rFT5py8JgCH76_mty3'
@@ -228,7 +228,7 @@ export const ME_previewItems = [
       },
       {
         id: 34,
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729433986/INNO_events/Inno%20Club%20Posters/ntrl8fydryhiphjdds4v.png', // TBA
         PreviewDescription:
           '"Prepare for an exhilarating blend of fun and intellect!" Fun Fusion features three exciting rounds filled with tasks and quizzes. Participants will kick off with timed challenges, followed by engaging quiz questions...',
         Rulebook: 'https://drive.google.com/open?id=1b30mhvuRZv4q_LfTCoZrAOUTDY3pg7Hh'
@@ -305,14 +305,14 @@ export const ME_previewItems = [
       },
       {
         id: 45,
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729434446/INNO_events/Inno%20Club%20Posters/ymlmczcsubprc82yrzel.png', // TBA
         PreviewDescription:
           'Get ready to roll—super slowly—at Drift-A-Thon, hosted by LEO! This isn’t your typical race; it’s all about balance and control. Compete against 15 others as you try to cycle 50 meters at the slowest speed possible...',
         Rulebook: 'https://drive.google.com/open?id=1KgNYB-zSkhbESyvsmE_coBKPF6aHK5W2'
       },
       {
         id: 46,
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729434561/INNO_events/Inno%20Club%20Posters/osqoz6xxuawc2ypci37l.jpg', // TBA
         PreviewDescription:
           'Get ready for an exhilarating race across campus, where teams will face a series of exciting challenges. Compete against the clock and other teams as you solve puzzles, complete tasks, and collaborate to reach the final destination...',
         Rulebook: 'https://drive.google.com/open?id=1xMGGvGsyHUW90euvg18FIs3FD31CbdOb'
@@ -353,7 +353,7 @@ export const ME_previewItems = [
       Heading: 'PSI-PHI',
       Description:
         '"Can you decode the future of business?" Join us for PSI PHI, our annual Business Hackathon, where mathematics meets strategy! With over 300 participants expected, this event challenges you to tackle core business and economic problems through a series of thought-provoking questions and case studies. Are you ready to sharpen your problem-solving skills and compete for innovative solutions? Don’t miss out!',
-      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+      ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729430506/INNO_events/Inno%20Club%20Posters/lpnxaifia1oeuhidclqr.png', // TBA
       Location: 'LA-104',
         Date: 'Day 1',
         Time: 'TBA',
@@ -452,7 +452,7 @@ export const ME_previewItems = [
       Heading: 'OPENCHASE',
       Description:
         'Get ready for the ultimate challenge with OpenChase: a Hybrid Treasure Hunt, brought to you by OpenCode! This virtual Capture the Flag event will have you hunting down hidden hints and flags buried deep within apps, media, and websites. Do you have the skills to crack the clues and come out on top?',
-      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+      ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729432800/INNO_events/Inno%20Club%20Posters/tqjvoypanukjacsqdhar.png', // TBA
       Location: 'TBA',
         Date: 'TBA',
         Time: 'TBA',
@@ -463,7 +463,7 @@ export const ME_previewItems = [
       Heading: 'VIRTUAL RACING SIMULATOR COMPETITION',
       Description:
         'Gear up to race against time! SAE NITR presents to you the “Virtual Racing Simulator Competition”, a super enthralling event where participants will compete against each other in a virtual environment using a racing simulation software. If you enjoy playing Need For Speed, Burnout Paradise, Forza Horizon 5 etc, this competition is for you! Join us and get a chance to show off your driving skills or simply spectate and enjoy the thrilling competition as it unfolds!',
-      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+      ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729432942/INNO_events/Inno%20Club%20Posters/rjunpvmcjesqfrie4gp4.png', // TBA
       Location: 'TBA',
         Date: 'TBA',
         Time: 'TBA',
@@ -594,7 +594,7 @@ export const ME_previewItems = [
       Heading: 'Fish Eye',
       Description:
         '"The ocean stirs the heart, inspires the imagination, and brings eternal joy to the soul." Dive into the exciting world of robotics with Fish-Eye, hosted by Team TIBURON! Join us to explore the stages of building an Autonomous Underwater Vehicle (AUV), from initial design to final operation. Gain hands-on experience and valuable insights into the technology that powers these remarkable machines.',
-      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
+      ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729433504/INNO_events/Inno%20Club%20Posters/ln2ll3mwzq9swbdsi6mq.png', //TBA
       Location: 'TBA',
         Date: 'Day 2',
         Time: 'TBA',
@@ -616,7 +616,7 @@ export const ME_previewItems = [
       Heading: 'Robo Sumo War',
       Description:
         '"Only the strongest can dominate the ring." Prepared for the Robo-Sumo War , where robots face off in a thrilling wrestling match on an enclosed circular platform. With increased fight space and strategic moves, competitors will push their robots to the limit in this high-energy event!',
-      ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //cyborg TBA
+      ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729433610/INNO_events/Inno%20Club%20Posters/oaxv1zyxjuotqvzzvcrv.png', //cyborg TBA
       Location: 'Hall in LA (Infront of Elevator)',
         Date: 'Day 2',
         Time: 'TBA',
@@ -715,7 +715,7 @@ export const ME_previewItems = [
         Heading: 'Fun Fusion',
         Description:
           '"Prepare for an exhilarating blend of fun and intellect!" Fun Fusion features three exciting rounds filled with tasks and quizzes. Participants will kick off with timed challenges, followed by engaging quiz questions from biology, physics, and logic for bonus points. The second round includes a thrilling game, culminating in a final, challenging quiz. Don’t miss your chance to shine—join us to compete for the title of champion!',
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729433986/INNO_events/Inno%20Club%20Posters/ntrl8fydryhiphjdds4v.png', // TBA
         Location: 'LA1-117',
           Date: 'DAY 2',
           Time: 'TBA',
@@ -836,7 +836,7 @@ export const ME_previewItems = [
         Heading: 'Drift-a-thon',
         Description:
           'Get ready to roll—super slowly—at Drift-A-Thon, hosted by LEO! This isn’t your typical race; it’s all about balance and control. Compete against 15 others as you try to cycle 50 meters at the slowest speed possible—without putting your feet down! The twist? It’s all for a good cause, with minimal entry fees going toward fundraising. It’s fun, it’s challenging, and it’s all about showing off your epic balancing skills. Are you up for the slowest race of your life?',
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729434446/INNO_events/Inno%20Club%20Posters/ymlmczcsubprc82yrzel.png', // TBA
         Location: 'STS Ground',
           Date: 'TBA',
           Time: 'TBA',
@@ -847,7 +847,7 @@ export const ME_previewItems = [
         Heading: 'The Amazing Race',
         Description:
           'Get ready for an exhilarating race across campus, where teams will face a series of exciting challenges. Compete against the clock and other teams as you solve puzzles, complete tasks, and collaborate to reach the final destination. It’s a fast-paced, team-based competition where everyone has a chance to shine. Rally your squad and race to victory—are you up for the challenge?',
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
+        ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729434561/INNO_events/Inno%20Club%20Posters/osqoz6xxuawc2ypci37l.jpg', // TBA
         Location: 'TBA',
           Date: 'TBA',
           Time: 'TBA',
