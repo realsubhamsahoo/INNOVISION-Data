@@ -24,7 +24,7 @@ export const ME_previewItems = [
       id: 4,
       ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
       PreviewDescription: 'This event invites aspiring engineers and innovators to design, build, and test their very own mini chassis from the ground up...',
-      Rulebook: ''
+      Rulebook: 'https://drive.google.com/open?id=19svfX8W1iJCLwQhAID6SCsNSu5cGFcEo'
     },
     {
       id: 5,
