@@ -709,9 +709,9 @@ export const ME_previewItems = [
         Description:
           '"Prepare for an exhilarating blend of fun and intellect!" Fun Fusion features three exciting rounds filled with tasks and quizzes. Participants will kick off with timed challenges, followed by engaging quiz questions from biology, physics, and logic for bonus points. The second round includes a thrilling game, culminating in a final, challenging quiz. Don’t miss your chance to shine—join us to compete for the title of champion!',
         ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729433986/INNO_events/Inno%20Club%20Posters/ntrl8fydryhiphjdds4v.png', // TBA
-        Location: 'LA1-117',
+        Location: 'LA1-101',
           Date: 'DAY 2',
-          Time: 'TBA',
+          Time: '10 AM',
           Prizes: 'TBA',
       },
       {
@@ -764,9 +764,9 @@ export const ME_previewItems = [
         Description:
           'Step into a world of intrigue and mystery with a 3D Puzzle Escape Room Challenge, hosted by PrintStation, the official 3D printing club of NITR. Participants will be locked in a specially designed escape room filled with intricate 3D-printed clues. These clues are your only way out, but solving them won\'t be easy. With keen observation, creative thinking, teamwork, and an eye on the ticking clock piece together the clues, unlock hidden secrets, and find your way to freedom. Get ready for an immersive experience that combines the thrill of an escape room with the innovation of 3D printing. Are you up for the challenge?!',
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
-        Location: 'TBA',
-          Date: 'TBA',
-          Time: 'TBA',
+        Location: 'STS',
+          Date: 'DAY 2',
+          Time: '11 AM',
           Prizes: 'TBA',
       },
       {
@@ -830,10 +830,10 @@ export const ME_previewItems = [
         Description:
           'Get ready for an exhilarating race across campus, where teams will face a series of exciting challenges. Compete against the clock and other teams as you solve puzzles, complete tasks, and collaborate to reach the final destination. It’s a fast-paced, team-based competition where everyone has a chance to shine. Rally your squad and race to victory—are you up for the challenge?',
         ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729434561/INNO_events/Inno%20Club%20Posters/osqoz6xxuawc2ypci37l.jpg', // TBA
-        Location: 'TBA',
-          Date: 'TBA',
-          Time: 'TBA',
-          Prizes: 'TBA',
+        Location: 'STS',
+          Date: 'DAY 2',
+          Time: '3pm',
+          Prizes: 'STS',
       },
       {
         id: 47,
@@ -879,4 +879,4 @@ export const ME_previewItems = [
           Time: 'TBA',
           Prizes: 'TBA',
       },
-  ];
+      ];
