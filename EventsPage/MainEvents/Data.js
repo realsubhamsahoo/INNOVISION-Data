@@ -349,7 +349,7 @@ export const ME_previewItems = [
       ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729430506/INNO_events/Inno%20Club%20Posters/lpnxaifia1oeuhidclqr.png', // TBA
       Location: 'LA-104',
         Date: 'Day 1',
-        Time: 'TBA',
+        Time: '4 PM',
           Prizes: '₹5000',
     },
     {
@@ -380,9 +380,9 @@ export const ME_previewItems = [
       Description:
         'This event invites aspiring engineers and innovators to design, build, and test their very own mini chassis from the ground up. Whether you\'re passionate about automotive design or mechanical engineering, this challenge offers the perfect platform to showcase your creativity, technical skills, and problem-solving abilities.Gear up for the ultimate hands-on engineering experience with the Mini Chassis Making Competition!',
       ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
-      Location: 'LA1-122',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA1-201',
+        Date: 'DAY 2',
+        Time: '9 AM',
           Prizes: '₹3000',
     },
     {
@@ -391,9 +391,9 @@ export const ME_previewItems = [
       Description:
         'Join us for an engaging two-round event that tests your knowledge and practical skills! In the first round, solve a themed crossword puzzle, and in the second round, identify items based on their properties. This exciting competition combines critical thinking and hands-on activities, making it a must-attend for anyone eager to showcase their talents!',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179013/inno-2024/Event%20Posters/STEELLUN%20-%20The%20Material%20Advantage%20Chapter%2C%20NITR/midccr2zknd4zbezvj6j.png',
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-217',
+        Date: 'DAY 2 & 3',
+        Time: '2 PM',
           Prizes: '₹5000',
     },
     {
@@ -402,9 +402,9 @@ export const ME_previewItems = [
       Description:
         '"It\'s not just about cheering from the stands; it\'s about building the winning team!" E-Cell presents the IPL Auction, a two-round competition. In Round 1, teams face off in a quiz. The top teams advance to Round 2, where they use virtual money to bid for IPL players in a dynamic auction.Be ready to experience the thrill of building your dream team!',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179006/inno-2024/Event%20Posters/E-Cell%20-%20IPL%20Auction/rjt0ynbdwdap7hj3unqt.png',
-      Location: 'PPA',
+      Location: '1st: LA 214, 2nd: LA 317',
         Date: 'Day 3',
-        Time: 'TBA',
+        Time: '1st: 10 PM, 2nd: 12:30 PM',
           Prizes: '₹8000',
     },
     {
@@ -413,9 +413,9 @@ export const ME_previewItems = [
       Description:
         'The Algorithm and Programming Society of NITR is back with its flagship event of INNOVISION, Meteor Madness, an interact ive game involving a logrithmic problems and brainstorming quizzes that will enthral the participants in an adrenaline-filled atmosphere, testing their cognitive as well as coding skills. Presenting a cosmos of challenging problems at different levels, th is competition will be both exciting and unforgettable. Dont miss out!',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179007/inno-2024/Event%20Posters/Bears%20and%20Bulls/gdmjrwrzmbnmvgpzzpqf.png',
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-117',
+        Date: 'DAY 3',
+        Time: '1:30 PM',
           Prizes: '₹3000',
     },
     {
@@ -424,9 +424,9 @@ export const ME_previewItems = [
       Description:
         '"Every clue is a step closer to the truth!" This interactive murder mystery invites you to solve a thrilling case of an unsolved murder. In two rounds, teams will tackle engaging puzzles leading to locations around the LA lawns before uncovering the killer\'s identity and the biological cause of death, guided by clues rooted in bioscience.Let’s get the killer punished.',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179011/inno-2024/Event%20Posters/The%20Bioscience%20Society%20-%20Brainy%20Escape%203.0/ddcl3drtik9setdlkxlf.png',
-      Location: 'LA1-114,104',
-        Date: 'Day 1',
-        Time: 'TBA',
+      Location: 'LA1-101,104,117',
+        Date: 'Day 3',
+        Time: '3 PM',
           Prizes: '₹5000',
     },
     {
@@ -435,20 +435,20 @@ export const ME_previewItems = [
       Description:
         'TBA',
       ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-214',
+        Date: 'DAY 1',
+        Time: '4 PM',
           Prizes: '₹3000',
     },
     {
       id: 10,
-      Heading: 'OPENCHASE',
+      Heading: 'OPENCHASE: A TREASURE HUNT',
       Description:
         'Get ready for the ultimate challenge with OpenChase: a Hybrid Treasure Hunt, brought to you by OpenCode! This virtual Capture the Flag event will have you hunting down hidden hints and flags buried deep within apps, media, and websites. Do you have the skills to crack the clues and come out on top?',
       ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729432800/INNO_events/Inno%20Club%20Posters/tqjvoypanukjacsqdhar.png', // TBA
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-104',
+        Date: 'DAY 3',
+        Time: '9 AM',
           Prizes: '₹3000',
     },
     {
@@ -457,9 +457,9 @@ export const ME_previewItems = [
       Description:
         'Gear up to race against time! SAE NITR presents to you the “Virtual Racing Simulator Competition”, a super enthralling event where participants will compete against each other in a virtual environment using a racing simulation software. If you enjoy playing Need For Speed, Burnout Paradise, Forza Horizon 5 etc, this competition is for you! Join us and get a chance to show off your driving skills or simply spectate and enjoy the thrilling competition as it unfolds!',
       ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729432942/INNO_events/Inno%20Club%20Posters/rjunpvmcjesqfrie4gp4.png', // TBA
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA 114',
+        Date: 'DAY 3',
+        Time: '10 AM',
           Prizes: '₹3000',
     },
     {
@@ -467,9 +467,9 @@ export const ME_previewItems = [
       Heading: 'MOLECULAR MANIA',
       Description: 'Put your chemistry knowledge to the ultimate test with Molecule Mania, a thrilling mix of crossword puzzles and rapid-fire quizzes! Dive into the world of atoms, molecules, and reactions as you solve intricate crosswords that challenge your understanding of chemistry. Then, switch gears to compete in a high-energy quiz session where only the sharpest minds will prevail. Whether you\'re a periodic table pro or a chemical reaction enthusiast, Molecule Mania promises a brain-teasing adventure that\'s as educational as it is exciting!',
       ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-117',
+        Date: 'DAY 3',
+        Time: '9:30 AM',
           Prizes: '₹3000',
     },
     {
@@ -478,9 +478,9 @@ export const ME_previewItems = [
       Description:
         'In this exciting team-based event, teams of 4 will tackle three thrilling challenges—Pictionary, Puzzle Pursuit, and Science Riddles—to rescue their imaginary friend. Teams will first identify their friends trapped scenario through drawings, then hunt for hidden weapons using coded clues, and finally solve science riddles to creatively apply the weapons and complete the rescue. Points are awarded for speed, accuracy, and creativity. Let the adventure begin!',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179010/inno-2024/Event%20Posters/Sci%20Savior-Inspire%20Club/ofq0fs5l9vtzdbfu2p33.png',
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-214',
+        Date: 'DAY 2',
+        Time: '9 AM',
           Prizes: '₹3000',
     },
     {
@@ -489,9 +489,9 @@ export const ME_previewItems = [
       Description:
         'Webwiz, the web development club of NIT Rourkela, brings to you WebClone Mania, an excellent opportunity to compete and exhibit your developing skills. Participants will be tasked with cloning a website or a specific component from scratch within the time limit of 2 hours. Showcase your coding prowess, design skills and attention to detail and stand a chance to win this exciting competition!',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179016/inno-2024/Event%20Posters/Webclone%20mania_Webwiz/yobeoxuxwbxm1mwvdtes.png',
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-214',
+        Date: 'DAY 3',
+        Time: '3:30 PM',
           Prizes: '₹5000',
     },
     {
@@ -500,9 +500,9 @@ export const ME_previewItems = [
       Description:
         '"Innovation knows no bounds!" Join us for Brainboxed 2.0, a thrilling case study competition centered around the theme Technoverse: Navigating the Tech Cosmos and Future Landscape. Teams of up to three will tackle real-world tech challenges, showcasing their creativity and problem-solving prowess. Esteemed judges will evaluate each team’s approach and vision, making this an exceptional opportunity to consider the ethical and sustainable impacts of future innovations.',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179003/inno-2024/Event%20Posters/BrainBoxed%202.0%20%28AnC%29/evl3gsfmephbdm18zqta.png',
-      Location: 'TBA',
+      Location: 'LA-104',
         Date: 'Day 2 & 3',
-        Time: 'TBA',
+        Time: '1 PM',
           Prizes: '₹3000',
     },
     {
@@ -511,9 +511,9 @@ export const ME_previewItems = [
       Description:
         'This exciting event challenges participants to showcase their creativity and technical skills through three engaging rounds. Kick things off with a Preliminary Online Test to assess your hardware knowledge. Then, tackle a problem statement using TINKERCAD in the Simulation Round, where you’ll design and simulate your solution. Finally, bring your ideas to life in the Hardware Implementation Round, where you’ll work with actual hardware kits to create a working prototype. Join us for a thrilling experience of innovation and hands-on learning!',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179015/inno-2024/Event%20Posters/Short%20Circuit/ra3gzjbnsqgv32hn1nva.png',
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-101',
+        Date: 'DAY 2, 3',
+        Time: '1:30 PM',
           Prizes: '₹5000',
     },
     {
@@ -577,9 +577,9 @@ export const ME_previewItems = [
       Description:
         'Step into the Era of Estates with the Finance Club for an epic journey through history! Travel from the late 19th century all the way to 2024, as major global events shake up commodities and sectors in ways you’ve never imagined. Each round brings new challenges with prices rising and falling, and it’s up to you to adapt and make the smartest moves. With every twist and turn, the competition heats up—will you have what it takes to outwit the market and claim victory?',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729178999/inno-2024/Event%20Posters/jv2umrted9dx0jcgfrvb.png',
-      Location: 'PPA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-214',
+        Date: 'DAY 2',
+        Time: '1 PM',
           Prizes: '₹3000',
     },
     {
@@ -588,9 +588,9 @@ export const ME_previewItems = [
       Description:
         '"The ocean stirs the heart, inspires the imagination, and brings eternal joy to the soul." Dive into the exciting world of robotics with Fish-Eye, hosted by Team TIBURON! Join us to explore the stages of building an Autonomous Underwater Vehicle (AUV), from initial design to final operation. Gain hands-on experience and valuable insights into the technology that powers these remarkable machines.',
       ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729433504/INNO_events/Inno%20Club%20Posters/ln2ll3mwzq9swbdsi6mq.png', //TBA
-      Location: 'TBA',
+      Location: 'LA-214',
         Date: 'Day 2',
-        Time: 'TBA',
+        Time: '10 AM',
           Prizes: 'TBA',
     },
     {
@@ -599,9 +599,9 @@ export const ME_previewItems = [
       Description:
         'Get ready to dive into a thrilling competition where strategy, creativity, and quick thinking reign supreme. In this unique event, each team will receive a set amount of ‘credits’ to start their bidding journey. Assigned specific numbers, teams will explore a carefully curated reference list filled with an exciting array of weapons, ammunition, and beloved characters from popular fantasies and dramas. Your mission? To craft the ultimate combination of items that will earn you the highest points possible. Each item holds its own value, and it’s up to you to navigate the bidding process with cunning and strategy to outsmart your opponents. Prepare to engage in a lively and dynamic atmosphere as you bid your way to victory. May the most strategic team emerge triumphant in this exhilarating fantasy showdown!',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179000/inno-2024/Event%20Posters/tl0i8idt3sozlan2s7cy.png',
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-114',
+        Date: 'DAY 3',
+        Time: '2 PM',
           Prizes: '₹2000',
     },
     {
@@ -610,9 +610,9 @@ export const ME_previewItems = [
       Description:
         '"Only the strongest can dominate the ring." Prepared for the Robo-Sumo War , where robots face off in a thrilling wrestling match on an enclosed circular platform. With increased fight space and strategic moves, competitors will push their robots to the limit in this high-energy event!',
       ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729433610/INNO_events/Inno%20Club%20Posters/oaxv1zyxjuotqvzzvcrv.png', //cyborg TBA
-      Location: 'Hall in LA (Infront of Elevator)',
-        Date: 'Day 2',
-        Time: 'TBA',
+      Location: 'Basketball Court',
+        Date: 'Day 1 & 2',
+        Time: '3 PM',
           Prizes: '₹8000',
     },
     {
@@ -622,8 +622,8 @@ export const ME_previewItems = [
         'Shake It Off! A competition organized by the CEST Club of NIT Rourkela to test your technical and structural knowledge. Participants will be tasked with building a strong structure capable of withstanding loading and tremor tests using the materials provided. The model lasting the longest in a shaking table test will be declared as the winning model. Compete in teams of 2-4 and show off your civil engineering skills!',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179016/inno-2024/Event%20Posters/Shake%20It%20Off-%20CEST/axcxc1bg60cyvv6cdunn.jpg',
       Location: 'SAC (Infront of SAC Stairs)',
-        Date: 'Day 2 & 3',
-        Time: 'TBA',
+        Date: 'Day 1',
+        Time: '3 PM',
           Prizes: '₹5000',
     },
     {
@@ -632,9 +632,9 @@ export const ME_previewItems = [
       Description:
         '“There are shortcuts to happiness, and dancing is one of them.” Unleash your moves in The Hustlemania 3.0.This thrilling freestyle dance event features Solo and Duo categories, each with Prelims and Final rounds where participants bring their best in just 60 seconds. The intensity peaks in the final round with a head-to-head face-off on random music tracks. Whether you\'re dancing alone or with a partner, step up and show off your freestyle magic—because there’s no greater feeling than dancing to the rhythm and letting the world disappear!',
       ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA lawns',
+        Date: 'DAY 3',
+        Time: '3:30 PM',
           Prizes: '₹10000',
     },
     {
