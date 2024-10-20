@@ -4,20 +4,21 @@ export const ME_previewItems = [
       ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
       PreviewDescription:
         '"Can you decode the future of business?" Join us for PSI PHI, our annual Business Hackathon, where mathematics meets strategy!...',
+      Rulebook: 'https://drive.google.com/open?id=1Vgc_35f1NxMIdPp4uB4abJBd2-vV18Wh'
     },
     {
       id: 2,
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179005/inno-2024/Event%20Posters/DesignTab/q2cmztmsuzffzzhw1oqo.png',
       PreviewDescription:
         'If it could be said in words there would be no reason to paint. NEO Palette is your chance to let your imagination speak...',
-    Rulebook: 'https://drive.google.com/open?id=1EfvuJv-ku89SjpL-_38_DfW8OXT61M3f'
+      Rulebook: 'https://drive.google.com/open?id=1EfvuJv-ku89SjpL-_38_DfW8OXT61M3f'
     },
     {
       id: 3,
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179007/inno-2024/Event%20Posters/omc/punchline%20panchayat/dwp4xyq08fcemqn9nxtj.png',
       PreviewDescription:
         '"Laughter is timeless, and the stage is set!" Get ready for Punchline Panchayat...',
-    Rulebook: 'https://drive.google.com/open?id=1vURHQces2zuA2GtjoPQxX0vU_meMSqVD'
+      Rulebook: 'https://drive.google.com/open?id=1vURHQces2zuA2GtjoPQxX0vU_meMSqVD'
     },
     {
       id: 4,
@@ -93,9 +94,9 @@ export const ME_previewItems = [
       },
       {
         id: 15,
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png',
+        ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179003/inno-2024/Event%20Posters/BrainBoxed%202.0%20%28AnC%29/evl3gsfmephbdm18zqta.png',
         PreviewDescription:
-          'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179003/inno-2024/Event%20Posters/BrainBoxed%202.0%20%28AnC%29/evl3gsfmephbdm18zqta.png',
+          '',
       },
       {
         id: 16,
@@ -126,6 +127,7 @@ export const ME_previewItems = [
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179011/inno-2024/Event%20Posters/Tiburon%20-%20Shark%20Hunt/jkkha9t3e91hhbdwgetu.png',
         PreviewDescription:
           '"In the depths of knowledge, we find the treasure of wisdom." Join us for Shark Hunt, a thrilling quiz based on Autonomous Underwater Vehicle (AUV) building...',
+       Rulebook: 'https://drive.google.com/open?id=1trT8J_AnWp3P9QEE0K8MU96Djk-qS82_'
       },
       {
         id: 21,
@@ -138,12 +140,14 @@ export const ME_previewItems = [
         ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729178999/inno-2024/Event%20Posters/jv2umrted9dx0jcgfrvb.png',
         PreviewDescription:
           'Step into the Era of Estates with the Finance Club for an epic journey through history! Travel from the late 19th century all the way to 2024, as major global events shake up commodities and sectors in ways you’ve never imagined...',
+        Rulebook: 'https://drive.google.com/open?id=1fghwONp1Pe7AyuX3O48r8sNsn1xY58Nl'
       },
       {
         id: 23,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
         PreviewDescription:
           '"The ocean stirs the heart, inspires the imagination, and brings eternal joy to the soul." Dive into the exciting world of robotics with Fish-Eye, hosted by Team TIBURON!...',
+        Rulebook: 'https://drive.google.com/open?id=1cl4mDW0sGyBJC5Py1AdjpREpYZme2Sq3'
       },
       {
         id: 24,
