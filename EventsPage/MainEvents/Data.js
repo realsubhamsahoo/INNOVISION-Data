@@ -269,13 +269,6 @@ export const ME_previewItems = [
         Rulebook: ''
       },
       {
-        id: 40,
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
-        PreviewDescription:
-          'Join us for Potter\'s Touch, a clay pottery workshop hosted by InCerS NITR, the ceramic society of our college. Learn the art of pottery from a professional clay potter and get a chances to make one on your own...',
-        Rulebook: ''
-      },
-      {
         id: 41,
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         PreviewDescription:
@@ -770,17 +763,6 @@ export const ME_previewItems = [
         Heading: 'Escape Room',
         Description:
           'Step into a world of intrigue and mystery with a 3D Puzzle Escape Room Challenge, hosted by PrintStation, the official 3D printing club of NITR. Participants will be locked in a specially designed escape room filled with intricate 3D-printed clues. These clues are your only way out, but solving them won\'t be easy. With keen observation, creative thinking, teamwork, and an eye on the ticking clock piece together the clues, unlock hidden secrets, and find your way to freedom. Get ready for an immersive experience that combines the thrill of an escape room with the innovation of 3D printing. Are you up for the challenge?!',
-        ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
-        Location: 'TBA',
-          Date: 'TBA',
-          Time: 'TBA',
-          Prizes: 'TBA',
-      },
-      {
-        id: 40,
-        Heading: 'Potter\'s Touch',
-        Description:
-          'Join us for Potter\'s Touch, a clay pottery workshop hosted by InCerS NITR, the ceramic society of our college. Learn the art of pottery from a professional clay potter and get a chances to make one on your own! Roll up your sleeves and prepare to get your hands dirty on the pottery wheel all while enjoying a calm, relaxing and creative atmosphere.',
         ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', // TBA
         Location: 'TBA',
           Date: 'TBA',
