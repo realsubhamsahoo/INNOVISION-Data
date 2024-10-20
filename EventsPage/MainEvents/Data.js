@@ -522,9 +522,9 @@ export const ME_previewItems = [
       Description:
         'Gear up for TURBOGEN-X with the ASME NIT Rourkela Student Section! Your mission: build a windmill using paper, cardboard, or acrylic sheets, and connect it to a dynamo. The challenge? Create the best propeller design that, when powered by wind, generates the highest voltage. Are you ready to engineer the most efficient windmill and take the win?',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729178999/inno-2024/Event%20Posters/ASME/xqnzvvsjy5dtxftyvvbn.png',
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-117',
+        Date: 'DAY 2',
+        Time: '9 AM',
           Prizes: '₹5000',
     },
     {
@@ -544,9 +544,9 @@ export const ME_previewItems = [
       Description:
         'Simulating Solutions 2.0 is an exhilarating competition hosted by the AIChe NIT Rourkela Student Chapter, the vibrant community for chemical engineers and enthusiasts. Participants will face a series of engaging(crosswords/quiz/jeopardy quiz), and challenging riddles that will lead your team to the grand finale. Chemical engineer or not,this competition is for everyone. So, brush up your chemistry skills and prepare to think outside the box—join us for a thrilling experience!',
       ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //aiche TBA
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-104',
+        Date: 'DAY 2 & 3',
+        Time: '9:30 AM',
           Prizes: '₹5000',
     },
     {
@@ -555,9 +555,9 @@ export const ME_previewItems = [
       Description:
         '"In the depths of knowledge, we find the treasure of wisdom." Join us for Shark Hunt, a thrilling quiz based on Autonomous Underwater Vehicle (AUV) building. Test your skills and knowledge against fellow enthusiasts in this engaging event. Dive deep into the world of robotics and see who emerges victorious!',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179011/inno-2024/Event%20Posters/Tiburon%20-%20Shark%20Hunt/jkkha9t3e91hhbdwgetu.png',
-      Location: 'TBA',
-        Date: 'Day 2',
-        Time: 'TBA',
+      Location: 'LA-201',
+        Date: 'Day 3',
+        Time: '3:30 PM',
           Prizes: '₹2000',
     },
     {
@@ -566,9 +566,9 @@ export const ME_previewItems = [
       Description:
         '"Ignite your knowledge and fuel your passion for learning!" Join INQUIZZITIVE for JNANAGNI, a dynamic business and technology-themed quiz contest. This exciting event consists of a preliminary written round followed by a final oral round, taking place over three hours from 3 PM to 6 PM. Engage in challenging questions that test your knowledge and creativity!',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179009/inno-2024/Event%20Posters/Jnanagni%20-%20Inquizzitive/bb8thtrztcbxikvjjgjo.png',
-      Location: 'TBA',
+      Location: 'LA-117',
         Date: 'Day 2',
-        Time: 'TBA',
+        Time: '2 PM',
           Prizes: '₹3000',
     },
     {
@@ -643,9 +643,9 @@ export const ME_previewItems = [
       Description:
         'Get ready for "Business Pictionary" by the Grapevine Business Club! In this fun and interactive event, participants will take turns drawing business-related terms like "branding," "stock market," and "start-up" on whiteboards or chart paper, while their teammates try to guess the correct terms. The faster and more accurate the guesses, the higher your team\'s chances of winning! With creativity, communication, and teamwork at the heart of the game, it\'s a race against time to see which team will dominate the leaderboard and claim victory. Let the business-themed sketching begin!',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179009/inno-2024/Event%20Posters/Business%20Pictionary%20-%20Grapevine/dedx2sfes6oib1gv7keo.png',
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-204',
+        Date: 'DAY 2',
+        Time: '10 PM',
           Prizes: '₹2000',
     },
     {
@@ -654,20 +654,20 @@ export const ME_previewItems = [
       Description:
         '"Get ready for an electrifying battle of innovation and skill!" In Hovermania, two teams will face off in an epic hovercraft showdown, where low-cost designs fuel intense competition. This event invites participants to unleash their creativity and engineering prowess while battling for victory. Join us for an action-packed day that celebrates teamwork and ingenuity in a thrilling atmosphere!',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179013/inno-2024/Event%20Posters/UDAAN/d6xoa6vlebahnb7q86gv.png',
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'BASKETBALL COURT',
+        Date: 'DAY 3',
+        Time: '4 PM',
           Prizes: '₹8000',
     },
     {
       id: 30,
       Heading: 'Roadies Food Saga: 2.0',
       Description:
-        'TBA',
+        '',
       ImageURL: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729179011/inno-2024/Event%20Posters/FTS/xk2bx2rmqkqu5lmvzgpd.png',
-      Location: 'TBA',
-        Date: 'TBA',
-        Time: 'TBA',
+      Location: 'LA-201',
+        Date: 'DAY 2',
+        Time: '1:30 PM',
           Prizes: '₹3000',
     },
     {
