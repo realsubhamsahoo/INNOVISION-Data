@@ -202,7 +202,7 @@ export const ME_previewItems = [
   },
   {
     id: 27,
-    ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //Hustlemania TBA
+    ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729709994/INNO_events/Inno%20Club%20Posters/e1hv7rq5lf9xrwu73msq.jpg', //Hustlemania TBA
     PreviewDescription:
       '“There are shortcuts to happiness, and dancing is one of them.” Unleash your moves in The Hustlemania 3.0.This thrilling freestyle dance event features Solo and Duo categories...',
     Rulebook: '',
@@ -569,7 +569,7 @@ export const ME_descriptionItems = [
     Time: '9 AM',
     Prizes: '₹5000',
   },
-  {
+  /*{
     id: 18,
     Heading: 'HOLOCAMPUS',
     Description:
@@ -579,7 +579,7 @@ export const ME_descriptionItems = [
     Date: 'Day 1,2 & 3',
     Time: 'TBA',
     Prizes: 'TBA',
-  },
+  },*/
   {
     id: 19,
     Heading: 'Simulating Solution',
@@ -680,7 +680,7 @@ export const ME_descriptionItems = [
     Heading: 'Hustlemania 3.0',
     Description:
       "“There are shortcuts to happiness, and dancing is one of them.” Unleash your moves in The Hustlemania 3.0.This thrilling freestyle dance event features Solo and Duo categories, each with Prelims and Final rounds where participants bring their best in just 60 seconds. The intensity peaks in the final round with a head-to-head face-off on random music tracks. Whether you're dancing alone or with a partner, step up and show off your freestyle magic—because there’s no greater feeling than dancing to the rhythm and letting the world disappear!",
-    ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
+    ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729709994/INNO_events/Inno%20Club%20Posters/e1hv7rq5lf9xrwu73msq.jpg', //TBA
     Location: 'LA lawns',
     Date: 'DAY 3',
     Time: '3:30 PM',
