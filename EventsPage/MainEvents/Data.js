@@ -64,7 +64,7 @@ export const ME_previewItems = [
   },
   {
     id: 9,
-    ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //tba
+    ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729778657/INNO_events/Inno%20Club%20Posters/wyxzwizt4ggy9id5tcyv.jpg', //tba
     PreviewDescription: 'TBA',
     Rulebook: '',
   },
@@ -131,11 +131,11 @@ export const ME_previewItems = [
     Rulebook: 'https://drive.google.com/open?id=1X9ixbfCjY7WgbxkgdK2ak0sDFzw2iOn1',
   },
   {
-    id: 18,
-    ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
-    PreviewDescription:
-      'HoloCampus is a groundbreaking initiative by the GTA at NIT Rourkela, debuting at Innovision 2024. As India’s first immersive holographic experience, it blends live video feeds with futuristic virtual enhancements, allowing attendees to explore the campus like never before...',
-    Rulebook: '',
+   // id: 18,
+    //ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
+    //PreviewDescription:
+      //'HoloCampus is a groundbreaking initiative by the GTA at NIT Rourkela, debuting at Innovision 2024. As India’s first immersive holographic experience, it blends live video feeds with futuristic virtual enhancements, allowing attendees to explore the campus like never before...',
+    //Rulebook: '',
   },
   {
     id: 19,
@@ -468,7 +468,7 @@ export const ME_descriptionItems = [
     id: 9,
     Heading: 'IMAGINE AI',
     Description: 'TBA',
-    ImageURL: 'https://socialcry.com/wp-content/uploads/2024/10/dummy-image-lorem-ipsum.png', //TBA
+    ImageURL: 'https://res.cloudinary.com/duvkctvfr/image/upload/v1729778657/INNO_events/Inno%20Club%20Posters/wyxzwizt4ggy9id5tcyv.jpg', //TBA
     Location: 'LA-214',
     Date: 'DAY 1',
     Time: '4 PM',
