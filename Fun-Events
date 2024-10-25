@@ -2,105 +2,105 @@ export const FunEvents_previewItems = [
   {
     id: 1,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797486/Quick_Hand_aeeiun.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797486/Quick_Hand_aeeiun.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 2,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797484/Guess_The_Character_hnrfn5.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797484/Guess_The_Character_hnrfn5.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 3,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797482/Gel_Blaster_bdckk8.png'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797482/Gel_Blaster_bdckk8.png',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 4,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797483/Box_Cricket_t2tvi5.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797483/Box_Cricket_t2tvi5.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 5,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797486/Soft_Archery_zmfbve.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797486/Soft_Archery_zmfbve.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 6,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797484/Balloon_Shooting_qlpxxp.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797484/Balloon_Shooting_qlpxxp.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 7,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797484/Cup_Tic_Tac_Toe_vfa3l1.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797484/Cup_Tic_Tac_Toe_vfa3l1.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 8,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797485/Body_Zorbing_podoll.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797485/Body_Zorbing_podoll.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 9,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798002/INNO%20Fun%20Event/Club%20Events/Poster/vjbasjosguxlk77acgj0.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798002/INNO%20Fun%20Event/Club%20Events/Poster/vjbasjosguxlk77acgj0.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 10,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/af35sfcdk1mqojxgxy8p.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/af35sfcdk1mqojxgxy8p.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 11,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/tygzdcltb6g6fwqildqu.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/tygzdcltb6g6fwqildqu.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 12,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/ohdspicrj5sspziwtdao.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/ohdspicrj5sspziwtdao.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 13,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/sjqnv5yxlpo9kgsilxag.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/sjqnv5yxlpo9kgsilxag.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 14,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798000/INNO%20Fun%20Event/Club%20Events/Poster/kvrzykiukdbxmjbw0m2r.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798000/INNO%20Fun%20Event/Club%20Events/Poster/kvrzykiukdbxmjbw0m2r.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
   {
     id: 15,
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798000/INNO%20Fun%20Event/Club%20Events/Poster/zcztvmxfwmw52uyd3txy.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798000/INNO%20Fun%20Event/Club%20Events/Poster/zcztvmxfwmw52uyd3txy.jpg',
     PreviewDescription: '',
     Rulebook: '',
   },
@@ -112,7 +112,7 @@ export const FunEvents_descriptionItems = [
     Heading: 'QUICK HANDS',
     Description: '',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797486/Quick_Hand_aeeiun.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797486/Quick_Hand_aeeiun.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -123,7 +123,7 @@ export const FunEvents_descriptionItems = [
     Heading: 'GUESS THE CHARACTER',
     Description: '',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797484/Guess_The_Character_hnrfn5.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797484/Guess_The_Character_hnrfn5.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -134,7 +134,7 @@ export const FunEvents_descriptionItems = [
     Heading: 'GEL-BLASTER COMBACT',
     Description: '',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797482/Gel_Blaster_bdckk8.png'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797482/Gel_Blaster_bdckk8.png',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -145,7 +145,7 @@ export const FunEvents_descriptionItems = [
     Heading: 'BOX CRICKET',
     Description: '',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797483/Box_Cricket_t2tvi5.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797483/Box_Cricket_t2tvi5.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -156,7 +156,7 @@ export const FunEvents_descriptionItems = [
     Heading: 'SOFT ARCHERY',
     Description: '',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797486/Soft_Archery_zmfbve.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797486/Soft_Archery_zmfbve.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -167,7 +167,7 @@ export const FunEvents_descriptionItems = [
     Heading: 'BALLOON SHOOTING',
     Description: '',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797484/Balloon_Shooting_qlpxxp.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797484/Balloon_Shooting_qlpxxp.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -178,7 +178,7 @@ export const FunEvents_descriptionItems = [
     Heading: 'CUP TIC-TAC-TOE',
     Description: '',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797484/Cup_Tic_Tac_Toe_vfa3l1.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797484/Cup_Tic_Tac_Toe_vfa3l1.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -189,7 +189,7 @@ export const FunEvents_descriptionItems = [
     Heading: 'BODY ZORBING',
     Description: '',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797485/Body_Zorbing_podoll.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797485/Body_Zorbing_podoll.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -199,8 +199,9 @@ export const FunEvents_descriptionItems = [
     id: 9,
     Heading: 'NITR GOT LATENT',
     Description: '',
+    Rulebook: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797481/NIT_R_Got_Latent_zi6xpz.pdf',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798002/INNO%20Fun%20Event/Club%20Events/Poster/vjbasjosguxlk77acgj0.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798002/INNO%20Fun%20Event/Club%20Events/Poster/vjbasjosguxlk77acgj0.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -210,8 +211,9 @@ export const FunEvents_descriptionItems = [
     id: 10,
     Heading: 'DRIFTATHON',
     Description: '',
+    Rulebook: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797480/Driftathon_Rulebook_ueurxh.pdf',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/af35sfcdk1mqojxgxy8p.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/af35sfcdk1mqojxgxy8p.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -221,8 +223,9 @@ export const FunEvents_descriptionItems = [
     id: 11,
     Heading: 'ESCAPE ROOM 2.0',
     Description: '',
+    Rulebook: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797479/Escape_Room_2.0_Rulebook_u4zieq.pdf',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/tygzdcltb6g6fwqildqu.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/tygzdcltb6g6fwqildqu.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -232,8 +235,9 @@ export const FunEvents_descriptionItems = [
     id: 12,
     Heading: 'THE AMAZING RACE',
     Description: '',
+    Rulebook: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797478/Amazing_Race_Rulebook_tbdzlu.pdf',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/ohdspicrj5sspziwtdao.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/ohdspicrj5sspziwtdao.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -242,9 +246,10 @@ export const FunEvents_descriptionItems = [
   {
     id: 13,
     Heading: 'BRAINY ESCAPE 3.0',
+    Rulebook: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797478/Brainy_Escape_Rulebook_hmerpa.pdf',
     Description: '',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/sjqnv5yxlpo9kgsilxag.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798001/INNO%20Fun%20Event/Club%20Events/Poster/sjqnv5yxlpo9kgsilxag.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -254,8 +259,9 @@ export const FunEvents_descriptionItems = [
     id: 14,
     Heading: 'FUN FUSION',
     Description: '',
+    Rulebook: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797479/Fun_Fusion_Rulebook_vunyny.pdf',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798000/INNO%20Fun%20Event/Club%20Events/Poster/kvrzykiukdbxmjbw0m2r.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798000/INNO%20Fun%20Event/Club%20Events/Poster/kvrzykiukdbxmjbw0m2r.jpg',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
@@ -265,8 +271,53 @@ export const FunEvents_descriptionItems = [
     id: 15,
     Heading: 'CYCLOTHON 3.0',
     Description: '',
+    Rulebook: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797481/Cyclothon_Rulebook_df5ds5.pdf',
     ImageURL:
-      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798000/INNO%20Fun%20Event/Club%20Events/Poster/zcztvmxfwmw52uyd3txy.jpg'
+      'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729798000/INNO%20Fun%20Event/Club%20Events/Poster/zcztvmxfwmw52uyd3txy.jpg',
+    Location: 'TBA',
+    Date: 'TBA',
+    Time: 'TBA',
+    Prizes: 'TBA',
+  },
+  {
+    id: 16,
+    Heading: 'ELECTRIFIED',
+    Description: '',
+    Rulebook: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797471/Electrified_Rulebook_xcudpi.pdf',
+    ImageURL: '',
+    Location: 'TBA',
+    Date: 'TBA',
+    Time: 'TBA',
+    Prizes: 'TBA',
+  },
+  {
+    id: 17,
+    Heading: 'ORIGAMI RUSH',
+    Description: '',
+    Rulebook: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797471/Origami_Rush_Rulebook_fxrf7q.pdf',
+    ImageURL: '',
+    Location: 'TBA',
+    Date: 'TBA',
+    Time: 'TBA',
+    Prizes: 'TBA',
+  },
+  {
+    id: 18,
+    Heading: 'SPEED SURGE',
+    Description: '',
+    Rulebook: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797469/Speed_Surge_Rulebook_sjsf91.pdf',
+    ImageURL: '',
+    Location: 'TBA',
+    Date: 'TBA',
+    Time: 'TBA',
+    Prizes: 'TBA',
+  },
+  {
+    id: 19,
+    Heading: 'HOOP FRENZY',
+    Description: '',
+    Rulebook: 'https://res.cloudinary.com/dwfon2ikz/image/upload/v1729797469/Hoop_Frenzy_Rulebook_zp7lbz.pdf',
+    ImageURL: '',
     Location: 'TBA',
     Date: 'TBA',
     Time: 'TBA',
